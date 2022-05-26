@@ -7,10 +7,22 @@
 
 ## Key Architecture Characteristics
 
+Digital Council (DC) is a centralized platform to support people looking for a job. 
+
+One of the essential requirements is personal data security since we are processing "personally identifiable information" (PII) data. The Digital Council aims at the US market, so we must comply with California Consumer Privacy Act (CCPA). We also need to comply with GDPR once we expand operations to the EU market. To simplify the requirement, we must store, process, and dismiss citizens' data by user request within the same country. 
+
+We will process US nationals' data within the US-based cloud infrastructure. The same applies to any other geographical subsidiary: we will process EU citizens' data at the EU-based cloud.
+
+The possible market expansion adds a second functional requirement - internationalizability. We could already add Spanish and Chinese localizations to grow our audience since they are listed within top used languages in US.
+
+The third compulsory requirement is scalability. We build our platform to be a bridge between multiple Non-Profit Organizations (NPO) and candidates. The growing user base in one specific geo brings the challenge of load distribution for one country, so we need to address it with more granular partitioning.
+
+The targeted audience brings a fourth requirement - usability. We need to provide as simple UX as possible to enable non-educated computer users.
 
 
 ### Candidate Architecture Characteristics
 
+To limit the scope for our application we want to pick only three functional requirement for the Minimal Viable Product (MVP).
 
 ### Selected Architecture Characteristics
 
