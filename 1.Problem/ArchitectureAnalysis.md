@@ -36,7 +36,7 @@ Of the characteristics identified above, do they apply to the whole system or ar
 
 | Identified Domains                                    | Sub-domains and Considerations                               | Applicable Architectural Characteristics                     | Strategic Domain |
 | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------- |
-| Users                                                 | Customer, Preferences, Profile (Personal & Medical), Dietician, Clinic, Administrator?, Onboarding, Integration (Farmacy Foods) | - Interoperability (moved to Interface)<br />- Configurability<br />- Authorisation<br />- Workflow<br />- Fault-Tolerance<br />- Data-Integrity | Supportive       |
+| Users                                                 | Customer, Preferences, Profile  | - Interoperability (moved to Interface)<br />- Configurability<br />- Authorisation<br />- Workflow<br />- Fault-Tolerance<br />- Data-Integrity | Supportive       |
 | Security                                              | Authentication, Authorisation                                | - Authorisation<br />- Data Integrity<br />-Interoperability (moved to Interface) | Generic          |
 | Data Store                                            | Database, Interface                                          | - Data Integrity<br />- Authorisation                        | Generic          |
 | Class (localised, temporal)                           |                                                              | - Configurability<br />- Fault Tolerance                     | Core             |

@@ -1,2 +1,3 @@
-[> Home](../README.md)
+[> Home](README.md)
 [< Prev]()  |  [Next >]()
+

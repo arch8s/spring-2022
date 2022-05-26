@@ -45,18 +45,19 @@ The aim of this documentation repository is to communicate our design for the pr
 
 
 [User Stories](3.UserStories/README.md)
+- [Platform Admins](3.UserStories/Platform/Admin/CRUD.md)
 
 [Views & Perspectives](4.Views/README.md)
 
 - [Functional View](4.Views/FunctionalView/README.md)
 - [Event Storming](4.Views/EventStorming/README.md)
-- [Scenario Flow Diagrams](4.Views/scenarios/README.md)
+- [Scenario Flow Diagrams](4.Views/Scenarios/README.md)
 - [C4 Models](4.Views/C4Models/README.md)
 
 
 ## Resources <a href='#' id='resources'></a>
 
-- [2022 Architecture Katas Presentation](assets/docs/2021-fall-kick-off.pdf)
+- [2022 Architecture Katas Requirements](assets/docs/diversitycybercouncilkatarequirements20221653334648065.pdf)
 
 
 ## References
