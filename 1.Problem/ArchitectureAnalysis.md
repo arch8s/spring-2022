@@ -34,19 +34,19 @@ Of the characteristics identified above, do they apply to the whole system or ar
 
 ### Table View
 
-| Identified Domains                                    | Sub-domains and Considerations                               | Applicable Architectural Characteristics                     | Strategic Domain |
-| ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------- |
+| Identified Domains                                    | Sub-domains and Considerations                              | Applicable Architectural Characteristics                     | Strategic Domain |
+| ----------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ | ---------------- |
 | Users                                                 | Customer, Preferences, Profile  | - Interoperability (moved to Interface)<br />- Configurability<br />- Authorisation<br />- Workflow<br />- Fault-Tolerance<br />- Data-Integrity | Supportive       |
-| Security                                              | Authentication, Authorisation                                | - Authorisation<br />- Data Integrity<br />-Interoperability (moved to Interface) | Generic          |
-| Data Store                                            | Database, Interface                                          | - Data Integrity<br />- Authorisation                        | Generic          |
-| Class (localised, temporal)                           |                                                              | - Configurability<br />- Fault Tolerance                     | Core             |
-| Event (in-person, localised, temporal)                |                                                              | - Configurability<br />Fault Tolerance                       | Core             |
-| Forum (localised, temporal)                           |                                                              | - Configurability<br />- Fault Tolerance                     | Core             |
-| Reference Material / Media (global, reference/static) | Media Library, General Wellness                              | - Scalability/Elasticity                                     | Generic          |
-| Analytics (geographical trend analysis)               | Geographical, Engagement?, Integration (Farmacy Foods), Reporting | - Fault Tolerance,<br />- Configurability<br />- Scalability/Elasticity<br />- Authorisation<br />-Data-Integrity | Core             |
-| Messaging                                             | Email, Message, Notification, Subscription?                  | - Workflow                                                   | Supportive       |
-| Medical                                               | Test, Result                                                 | - Authorisation<br />- Data-Integrity                        | Core             |
-| Interface                                             |                                                              | - Interoperability<br />- Authorisation<br />- Data-Integrity | Supportive       |
+| Security                                              | Authentication, Authorisation                               | - Authorisation<br />- Data Integrity<br />-Interoperability (moved to Interface) | Generic          |
+| Data Store                                            | Database, Interface                                         | - Data Integrity<br />- Authorisation                        | Generic          |
+| Class (localised, temporal)                           |                                                             | - Configurability<br />- Fault Tolerance                     | Core             |
+| Event (in-person, localised, temporal)                |                                                             | - Configurability<br />Fault Tolerance                       | Core             |
+| Forum (localised, temporal)                           |                                                             | - Configurability<br />- Fault Tolerance                     | Core             |
+| Reference Material / Media (global, reference/static) | Media Library, General Wellness                             | - Scalability/Elasticity                                     | Generic          |
+| Analytics (geographical trend analysis)               | Geographical, Engagement?, Integration, Reporting | - Fault Tolerance,<br />- Configurability<br />- Scalability/Elasticity<br />- Authorisation<br />-Data-Integrity | Core             |
+| Messaging                                             | Email, Message, Notification, Subscription?                 | - Workflow                                                   | Supportive       |
+| Medical                                               | Test, Result                                                | - Authorisation<br />- Data-Integrity                        | Core             |
+| Interface                                             |                                                             | - Interoperability<br />- Authorisation<br />- Data-Integrity | Supportive       |
 
 ### Venn Diagram
 
@@ -132,7 +132,7 @@ Compliance with Architectural decisions and designs is as important as complianc
 
 ### Fitness Functions
 
-Architectural Fitness Functions will be implemented in the Farmacy Family system in order to govern compliance to architectural decisions and designs. Non-compliance will need to be fixed (or if there is good reason the decision recorder in an ADR and the Fitness Functions updated), in the same way as a failing test.
+Architectural Fitness Functions will be implemented in the Spotlight Platform in order to govern compliance to architectural decisions and designs. Non-compliance will need to be fixed (or if there is good reason the decision recorder in an ADR and the Fitness Functions updated), in the same way as a failing test.
 
 There are various options for implementing these functions, and either one option or a mixture could be optimal for this system. In AWS the following are some of the options to investigate:
 
