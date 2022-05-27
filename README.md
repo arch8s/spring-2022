@@ -35,7 +35,7 @@ The aim of this documentation repository is to communicate our design for the pr
 [Solution Background](2.Solution/README.md)
 
 - [Architecture Principles](2.Solution/ArchitecturePrinciples.md)
-- [Overall Architecture Style Analysis](2.Solution/ArchitecturePatterns.md)
+- [Overall Architecture Style Analysis](2.Solution/ArchitectureAnalysis.md)
 - [Conceptual System Design](2.Solution/Conceptual.md)
 - [Data Store Solution](2.Solution/DataStore.md)
 - [Security](2.Solution/Security.md)

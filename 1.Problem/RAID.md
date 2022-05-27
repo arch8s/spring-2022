@@ -3,13 +3,21 @@
 
 ------
 
-# RAID Log
+# Risks (R)
 
 | Risks                                                        | Actions               |
 | ------------------------------------------------------------ |-----------------------|
 | <br/>- <br/> | -                     |
 | **Issues**                                                   | **Decisions**         |
 |  <br/>- <br/>          | See [ADRs](../5.ADRs) |
+
+# Assumptions (A), 
+
+# Issues (I)
+
+# Dependencies (D)
+
+
 
 ------
 
