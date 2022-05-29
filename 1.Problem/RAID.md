@@ -11,7 +11,7 @@
 | **Issues**                                                   | **Decisions**         |
 |  <br/>- <br/>          | See [ADRs](../5.ADRs) |
 
-# Assumptions (A), 
+# Assumptions (A)
 
 # Issues (I)
 

@@ -12,18 +12,18 @@ and key scenarios that will inform the architecture of the Spotlight Platform sy
 ## Actors & Actions
 
 
-| Actor            | Actions                                                                                               | Type       | NPO$ |
-| ------------------ |-------------------------------------------------------------------------------------------------------| ------------ | ------ |
+| Actor            | Actions                                                                                                 | Type       | NPO$ |
+| ------------------ | --------------------------------------------------------------------------------------------------------- | ------------ | ------ |
 | Administrator    | • Register/Approve Non-profit organizations<br /><br />• Register/Approve NPO Registrator<br /><br /> | Admin      |      |
-| ---              | ---                                                                                                   | ---        | ---  |
+| ---              | ---                                                                                                     | ---        | ---  |
 | NPO Registrator  | • Restister NPO<br />•                                                                                | Non-profit | Y    |
-| Community Leader | • Assigned to NPO<br/><br />•                                                                         | Non-profit | Y    |
-| Editor           | • Non-Profits to publicize offerings to the platform                                                  | Non-profit | Y    |
-| Teacher          | •                                                                                                     | Non-profit | Y    |
-| Mentor           | • Provide mentoring services                                                                          | Non-profit | Y    |
-| ---              | ---                                                                                                   | ---        | ---  |
+| Community Leader | • Assigned to NPO<br/><br />•                                                                        | Non-profit | Y    |
+| Editor           | • Non-Profits to publicize offerings to the platform                                                   | Non-profit | Y    |
+| Teacher          | • Provide educational services                                                                         | Non-profit | Y    |
+| Mentor           | • Provide mentoring services                                                                           | Non-profit | Y    |
+| ---              | ---                                                                                                     | ---        | ---  |
 | Student          | • Register with platform<br/> • Platform match with educational offerings                             | Candidate  |      |
-| Worker           | • Register with platform<br/> • Platform match with Mentorship/Career offerings                                | Candidate  |      |
+| Worker           | • Register with platform<br/> • Platform match with Mentorship/Career offerings                       | Candidate  |      |
 
 $ Requires NPO many-to-one relationship
 
@@ -45,15 +45,11 @@ Step 9 Regular cadence touchpoints scheduled between new non-profit and communit
 Step 10 Platform Role based training is assigned to new Non-Profit
 Step 11 New Non-Profit is invited to monthly community meetings
 
-
 ### 02 Career Case Management Functionality & Process
-
 
 ### 03 Candidate Register with platform
 
-
 ### 04 Candidate matching to NPO offering
-
 
 ---
 
