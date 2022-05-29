@@ -1,5 +1,5 @@
-[> Home](../README.md)
-[< Prev](../Glossary.md)  |  [Next >](BusinessGoalsDriversAndRequirements.md)
+[&gt; Home](../README.md)
+[&lt; Prev](../Glossary.md)  |  [Next &gt;](BusinessGoalsDriversAndRequirements.md)
 
 ---
 
@@ -22,7 +22,7 @@
 - Architectural Quanta
 - System Granularity
 
-[Actors, Actions & Significant Scenarios](ActorsActionsAndSignificantScenarios.md)
+[Actors, Actions &amp; Significant Scenarios](ActorsActionsAndSignificantScenarios.md)
 
 * List of actors
 * Actors mapping to actions
@@ -35,8 +35,7 @@
 
 [Raid Log](RAID.md)
 
-------
+---
 
-[> Home](../README.md)
-[< Prev](../Glossary.md)  |  [Next >](BusinessGoalsDriversAndRequirements.md)
-
+[&gt; Home](../README.md)
+[&lt; Prev](../Glossary.md)  |  [Next &gt;](BusinessGoalsDriversAndRequirements.md)

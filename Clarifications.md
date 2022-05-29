@@ -18,10 +18,18 @@ Our team has a few questions:
 10. Any cloud platforms limitation/requirements?
 11. How many NPOs do the platform aim to support?
 12. Clarify Networking Hub Functionality & Process requirement?
----
-13. A
-14.  
+13. Do we need to provide video/streaming content?
+14. What devices needs to be supported? web/mobile
+15. Which party Community Leader represents - Platform/NPO? Who can assign Community Leaders? Can  Community Leaders be assigned to more than 1 NPOs? (edited)
+16. Do we provide job offerings?
+17. Could you elaborate on  Networking Hub Functionality?
+18. Could you elaborate on Mentor Assignment, responsibilities and how it fits into platform?
+19. What type of App is required to build Native Mobile App or Web App?
+20. Is Networking Hub for NPOs or Candidates?
+21. Who is expected to provide Career Roadmap NPOs, mentors or the platform?
+
 
 ## Assumptions
-
+1. Networking is for NPOs
+2. Candidate is connected with the 
 

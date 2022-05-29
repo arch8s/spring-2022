@@ -11,19 +11,19 @@ and key scenarios that will inform the architecture of the Spotlight Platform sy
 
 ## Actors & Actions
 
+System is split into 3 different actors Platform Admin, Non-profit, Candidates. For security reason we've split into more specific user roles.
 
-| Actor            | Actions                                                                                                 | Type       | NPO$ |
-| ------------------ | --------------------------------------------------------------------------------------------------------- | ------------ | ------ |
-| Administrator    | • Register/Approve Non-profit organizations<br /><br />• Register/Approve NPO Registrator<br /><br /> | Admin      |      |
-| ---              | ---                                                                                                     | ---        | ---  |
-| NPO Registrator  | • Restister NPO<br />•                                                                                | Non-profit | Y    |
-| Community Leader | • Assigned to NPO<br/><br />•                                                                        | Non-profit | Y    |
-| Editor           | • Non-Profits to publicize offerings to the platform                                                   | Non-profit | Y    |
-| Teacher          | • Provide educational services                                                                         | Non-profit | Y    |
-| Mentor           | • Provide mentoring services                                                                           | Non-profit | Y    |
-| ---              | ---                                                                                                     | ---        | ---  |
-| Student          | • Register with platform<br/> • Platform match with educational offerings                             | Candidate  |      |
-| Worker           | • Register with platform<br/> • Platform match with Mentorship/Career offerings                       | Candidate  |      |
+| Actor            | Actions                                                                                                                              | Type       | NPO$ |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ---- |
+| Administrator    | • Controls Non-profit organizations<br />•                                                                                         | Platform   |      |
+| Community Leader | • Is Assigned to NPOs<br /> • Regular meetings with NPOs                                                                           | Platform   | Y    |
+| ---              | ---                                                                                                                                  | ---        | ---  |
+| NPO Registrator  | • Restister NPO<br />• sets service providing                                                                                      | Non-profit | Y    |
+| Editor           | • Non-Profits to publicize offerings to the platform                                                                                | Non-profit | Y    |
+| Mentor           | • Assigned to candidate<br />• creates career roadmap<br />• meet with candidate<br />• updates candidate assignment in platform | Non-profit | Y    |
+|                  |                                                                                                                                      |            |      |
+| ---              | ---                                                                                                                                  | ---        | ---  |
+| Candidate        | • Register with platform<br />• Platform match with educational offerings                                                          | Candidate  |      |
 
 $ Requires NPO many-to-one relationship
 
@@ -46,6 +46,21 @@ Step 10 Platform Role based training is assigned to new Non-Profit
 Step 11 New Non-Profit is invited to monthly community meetings
 
 ### 02 Career Case Management Functionality & Process
+
+Operational Process - Registration & Intake & Career Assessment
+Step 1	Candidate registers on platform
+Step 2	Candidate completes a career profile
+Step 3	Candidate completes a career assessment
+Step 4	Completion of profile and assessment automatically starts intake
+Step 5	New candidate assignment created
+
+Operational Process - Mentor Assignment & Roadmap
+Step 6	New candidate assigned a career mentor
+Step 7	Email sent to new candidate introducing career mentor
+Step 8	Introductory meeting is schedule within 1-2 weeks to discuss candidate needs and develop career roadmap
+Step 9	Regular cadence touchpoints scheduled between new candidate and career mentor
+Step 10	Career mentor uploads new candidate career roadmap in platform
+Step 11	Career mentor updates candidate assignment in platform to reflect career roadmap
 
 ### 03 Candidate Register with platform
 
