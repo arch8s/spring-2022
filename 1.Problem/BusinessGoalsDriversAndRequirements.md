@@ -7,26 +7,20 @@
 
 ## Background
 
-
-
 ## Business Goals
 
-
-## Business Drivers 
-
+## Business Drivers
 
 # Requirements and Engagement model
 
-
 ## Architecturally Significant Business Requirements
 
-| #   | Significant Architectural Requirements | Business Goal |
-|-----|----|----|
-| 1   | Customer profiles | 1 |
-| 2   | Community engagement  | 1 |
-| 3   | Geographical trends  | 1 |
 
-
+| # | Significant Architectural Requirements | Business Goal |
+| --- | ---------------------------------------- | --------------- |
+| 1 | Customer profiles                      | 1             |
+| 2 | Community engagement                   | 1             |
+| 3 | Geographical trends                    | 1             |
 
 ### 1. Customer profiles
 
@@ -39,15 +33,11 @@ Support geographical trend analysis
 
 ### 3. Geographical trends
 
-
-
-
-## Significant Non-Functional requirements 
+## Significant Non-Functional requirements
 
 1. The new system must ...
 
+---
 
-------
-
-[> Home](../README.md)   [> Problem Background](README.md) 
+[> Home](../README.md)   [> Problem Background](README.md)
 [< Prev](README.md)  |  [Next >](ArchitectureAnalysis.md)

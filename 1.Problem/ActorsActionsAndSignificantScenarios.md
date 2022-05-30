@@ -13,8 +13,9 @@ and key scenarios that will inform the architecture of the Spotlight Platform sy
 
 System is split into 3 different actors Platform Admin, Non-profit, Candidates. For security reason we've split into more specific user roles.
 
+
 | Actor            | Actions                                                                                                                              | Type       | NPO$ |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ---- |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------ |
 | Administrator    | • Controls Non-profit organizations<br />•                                                                                         | Platform   |      |
 | Community Leader | • Is Assigned to NPOs<br /> • Regular meetings with NPOs                                                                           | Platform   | Y    |
 | ---              | ---                                                                                                                                  | ---        | ---  |
