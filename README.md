@@ -1,5 +1,6 @@
-[![All Contributors](https://img.shields.io/badge/All_Contributors-2-orange.svg?style=flat-square)](#team-)
 [![MIT](https://img.shields.io/badge/License-MIT-orange?style=flat-square)](LICENSE)
+[![All Contributors](https://img.shields.io/badge/All_Contributors-2-orange.svg?style=flat-square)](#team-)
+[![Latest Github release](https://img.shields.io/github/release/arch8s/spring-2022.svg)](https://github.com/arch8s/spring-2022/releases/latest)
 [![Github](https://img.shields.io/badge/Github-arch8s/spring_2022-orange?style=flat-square)](https://github.com/arch8s/spring-2022)
 [![Maintained](https://img.shields.io/badge/Maintained-yes-orange?style=flat-square)](https://github.com/arch8s/spring-2022)
 [![Documentation](https://img.shields.io/badge/Documentation-in_progress-orange?style=flat-square)](https://github.com/arch8s/spring-2022)
