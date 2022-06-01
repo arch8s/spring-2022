@@ -1,20 +1,16 @@
+[![All Contributors](https://img.shields.io/badge/All_Contributors-2-orange.svg?style=flat-square)](#team-)
+[![MIT](https://img.shields.io/badge/License-MIT-orange?style=flat-square)](LICENSE)
+[![Github](https://img.shields.io/badge/Github-arch8s-orange?style=flat-square)](https://github.com/arch8s/spring-2022)
+
 <div align='center'>
   <img src="assets/images/arch8s.png" alt="Arch8s" style="zoom:50%;"/>
+  
+
+  <h1>Team <strong>Arch8s</strong></h1>
+  <p>O'Reilly Architectural Kata: Spring 2022</p>
 </div>  
 
-# O'Reilly Architectural Kata Spring 2022 - Team **Arch8s**
-
-[![All Contributors](https://img.shields.io/badge/All_Contributors-2-orange.svg?style=flat-square)](#team-)
-[![MIT](https://img.shields.io/badge/license-MIT-orange?style=flat-square)](LICENSE)
-
-This documentation repository is hosted on GitHub here:
-https://github.com/arch8s/spring-2022
-
-Welcome to our entry to the O'Reilly Spring 2022 Architectural Kata.
-
-The aim of this documentation repository is to communicate our design for the problem described, for a stakeholder and development team audience.
-
-
+_Welcome to our application to the Spring 2022 Architectural Kata!_
 
 ## Table of Contents
 
