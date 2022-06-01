@@ -15,8 +15,6 @@
 
 Hi there! 👋 We are team <abbr title="Archistratigs">Arch🎱s</abbr> and we are glad to present our solution to the announced Kata!
 
-<br/>
-
 ## 📖 Table of Contents
 
 [Clarifications](Clarifications.md)
