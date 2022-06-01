@@ -61,10 +61,10 @@ Hi there! 👋 We are team <abbr title="Archistratigs">Arch🎱s</abbr> and we a
 # Team ✨
 
 Thanks goes to these wonderful people:
-- Ivan Georgiev [[LinkedIn](https://www.linkedin.com/in/ivan-georgiev-859b219/)]
-- Andrey Orsoev  [[LinkedIn](https://www.linkedin.com/in/andreyorsoev)]
-- Kavya Shiva  [[LinkedIn](https://www.linkedin.com/in/kavyashiva)]
-- Moran Lefler [[LinkedIn](https://www.linkedin.com/in/moranlefler/)]
-- Renu Kumari [[LinkedIn](https://www.linkedin.com/in/renu-kumari-827b8293/)]
+- [Ivan Georgiev](https://www.linkedin.com/in/ivan-georgiev-859b219/)
+- [Andrey Orsoev](https://www.linkedin.com/in/andreyorsoev)
+- [Kavya Shiva](https://www.linkedin.com/in/kavyashiva)
+- [Moran Lefler](https://www.linkedin.com/in/moranlefler/)
+- [Renu Kumari](https://www.linkedin.com/in/renu-kumari-827b8293/)
 
 ---
