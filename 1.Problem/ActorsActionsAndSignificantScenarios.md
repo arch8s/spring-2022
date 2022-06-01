@@ -11,15 +11,15 @@ and key scenarios that will inform the architecture of the Spotlight Platform sy
 
 ## Actors & Actions
 
-System is split into 3 different actors Platform Admin, Non-profit, Candidates. For security reason we've split into more specific user roles.
+System is split into 3 different actors Community Leader, Non-profit staff and candidates. For security reason we've split into more specific user roles.
 
 
 | Actor            | Actions                                                                                                                              | Type       | NPO$ |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------ |
-| Administrator    | • Controls Non-profit organizations<br />•                                                                                         | Platform   |      |
-| Community Leader | • Is Assigned to NPOs<br /> • Regular meetings with NPOs                                                                           | Platform   | Y    |
+| Platform Administrator    | • Controls Non-profit organizations<br /> •                                                                                          | Platform   |      |
+| Community Leader | • Assigned to NPOs<br /> • Regular meetings with NPOs                                                                           | Platform   | Y    |
 | ---              | ---                                                                                                                                  | ---        | ---  |
-| NPO Registrator  | • Restister NPO<br />• sets service providing                                                                                      | Non-profit | Y    |
+| NPO Registrator  | • Registers NPO<br />• Declares services providing                                                                                      | Non-profit | Y    |
 | Editor           | • Non-Profits to publicize offerings to the platform                                                                                | Non-profit | Y    |
 | Mentor           | • Assigned to candidate<br />• creates career roadmap<br />• meet with candidate<br />• updates candidate assignment in platform | Non-profit | Y    |
 |                  |                                                                                                                                      |            |      |
