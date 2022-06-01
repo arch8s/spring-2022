@@ -1,6 +1,8 @@
-# O'reilly Architectural Kata Spring 2022 - Team **Arch8s**
+<div align='center'>
+  <img src="assets/images/arch8s.png" alt="Arch8s" style="zoom:50%;"/>
+</div>  
 
-<img src="assets/images/arch8s.png" alt="Arch8s" style="zoom:50%;"/>
+# O'Reilly Architectural Kata Spring 2022 - Team **Arch8s**
 
 This documentation repository is hosted on GitHub here:
 https://github.com/arch8s/spring-2022
