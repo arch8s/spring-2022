@@ -13,7 +13,7 @@
 
 <br />
 
-Hi there! 👋 We are team <acronym title="Archistratigs">Arch🎱s</acronym> and we are glad to present our solution to the announced Kata!
+Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are glad to present our solution to the announced Kata!
 
 ## 📖 Table of Contents
 
