@@ -16,7 +16,7 @@ The aim of this documentation repository is to communicate our design for the pr
 
 
 
-## Solution Structure
+## Table of Contents
 
 [Clarifications](Clarifications.md)
 
