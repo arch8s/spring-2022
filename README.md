@@ -8,6 +8,8 @@
 
 # O'Reilly Architectural Kata Spring 2022 - Team **Arch8s**
 
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+
 This documentation repository is hosted on GitHub here:
 https://github.com/arch8s/spring-2022
 
