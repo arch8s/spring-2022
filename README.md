@@ -8,7 +8,7 @@
 
 # O'Reilly Architectural Kata Spring 2022 - Team **Arch8s**
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#team-)
 
 This documentation repository is hosted on GitHub here:
 https://github.com/arch8s/spring-2022
@@ -62,10 +62,9 @@ The aim of this documentation repository is to communicate our design for the pr
 
 ## References
 
-# Contributors ✨
+# Team ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
+Thanks goes to these wonderful people:
 - Ivan Georgiev [[LinkedIn](https://www.linkedin.com/in/ivan-georgiev-859b219/)]
 - Andrey Orsoev  [[LinkedIn](https://www.linkedin.com/in/andreyorsoev)]
 - Kavya Shiva  [[LinkedIn](https://www.linkedin.com/in/kavyashiva)]
