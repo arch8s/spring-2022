@@ -16,7 +16,7 @@ Hi there! 👋 We are team <abbr title="Archistratigs">Arch🎱s</abbr> and we a
 
 <br/>
 
-## Table of Contents
+## 📖 Table of Contents
 
 [Clarifications](Clarifications.md)
 
