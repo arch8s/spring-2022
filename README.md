@@ -12,7 +12,7 @@
 
 <br />
 
-Hi there! 👋 We are team Arch🎱s and we are glad to present our solution to the announced Kata!
+Hi there! 👋 We are team <abbr title="Archistratigs">Arch🎱s</abbr> and we are glad to present our solution to the announced Kata!
 
 <br/>
 
