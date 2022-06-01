@@ -4,9 +4,14 @@
 
 ADRs
 - [001 We are using ADRs to keep project architecture decisions documented](ADR-001.md)
-- 002 Architectural characteristics? => architectural style - suggested mix modular monolith with serverless AWS lambda  
-- 003 Application Type -  Web application / Native App 
-- 004 Split domains - split the domains between NPO networking and career 
-- 004 Mentors - mentors are elected by NPOs which help candidates along with other NPOs 
-- 005 Matching candidate with mentors - to help full process will automatically suggest mentor by proximity, rating and engagement - if no match found will assign mentor from the platform 
-- 006 
+- [002 Use SPA + API to enable mobile app for platform](ADR-002.md)
+- [003 Use versioning for the REST API](ADR-003.md)
+- [004 Use PostgreSQL with multi-tenant database structure](ADR-004.md)
+- [005 Use Docker (+docker-compose) as a local development environment and production](ADR-005.md)
+- [006 Use zero-trust service communication model](ADR-006.md)
+- [007 Use hybrid architecture](ADR-007.md)
+- [008 Use separation of concerns](ADR-008.md)
+- [009 Use cloud infrastructure](ADR-009.md)
+- [010 Use OAuth for authorization](ADR-010.md)
+- [011 Use 4-eyes review principle](ADR-011.md)
+- [012 Use 12-factor application principles](ADR-012.md)
