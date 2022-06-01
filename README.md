@@ -4,13 +4,13 @@
 
 <div align='center'>
   <img src="assets/images/arch8s.png" alt="Arch8s" style="zoom:50%;"/>
-  
-
   <h1>Team <strong>Arch8s</strong></h1>
-  <p>O'Reilly Architectural Kata: Spring 2022</p>
+  <b>O'Reilly Architectural Kata: Spring 2022</b>
 </div>  
 
-_Welcome to our application to the Spring 2022 Architectural Kata!_
+Hi there! We are team Arch8s and we are glad to present our solution to the announced Kata!
+
+<br/>
 
 ## Table of Contents
 
