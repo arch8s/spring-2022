@@ -1,4 +1,4 @@
-# Architectural Katas 2022 Spring - **Arch8s**
+# O'reilly Architectural Kata Spring 2022 - Team **Arch8s**
 
 <img src="assets/images/arch8s.png" alt="Arch8s" style="zoom:50%;"/>
 
