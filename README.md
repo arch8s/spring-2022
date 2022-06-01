@@ -1,14 +1,11 @@
-<a href='https://github.com/arch8s/spring-2022/blob/main/LICENSE'>
-<img src='https://img.shields.io/github/license/arch8s/spring-2022?style=for-the-badge'>  
-</a>
-
 <div align='center'>
   <img src="assets/images/arch8s.png" alt="Arch8s" style="zoom:50%;"/>
 </div>  
 
 # O'Reilly Architectural Kata Spring 2022 - Team **Arch8s**
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#team-)
+[![All Contributors](https://img.shields.io/badge/All_Contributors-2-orange.svg?style=flat-square)](#team-)
+[![MIT](https://img.shields.io/badge/license-MIT-orange?style=flat-square)](LICENSE)
 
 This documentation repository is hosted on GitHub here:
 https://github.com/arch8s/spring-2022
