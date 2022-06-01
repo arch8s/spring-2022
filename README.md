@@ -8,7 +8,9 @@
   <b>O'Reilly Architectural Kata: Spring 2022</b>
 </div>  
 
-Hi there! We are team Arch8s and we are glad to present our solution to the announced Kata!
+<br />
+
+Hi there! 👋 We are team Arch🎱s and we are glad to present our solution to the announced Kata!
 
 <br/>
 
