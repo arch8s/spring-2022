@@ -1,6 +1,8 @@
 [![All Contributors](https://img.shields.io/badge/All_Contributors-2-orange.svg?style=flat-square)](#team-)
 [![MIT](https://img.shields.io/badge/License-MIT-orange?style=flat-square)](LICENSE)
 [![Github](https://img.shields.io/badge/Github-arch8s/spring_2022-orange?style=flat-square)](https://github.com/arch8s/spring-2022)
+[![Maintained](https://img.shields.io/badge/Maintained-yes-orange?style=flat-square)](https://github.com/arch8s/spring-2022)
+[![Documentation](https://img.shields.io/badge/Documentation-in-progress-orange?style=flat-square)](https://github.com/arch8s/spring-2022)
 
 <div align='center'>
   <img src="assets/images/arch8s.png" alt="Arch8s" style="zoom:50%;"/>
