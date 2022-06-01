@@ -17,13 +17,7 @@ Welcome to our entry to the O'Reilly Spring 2022 Architectural Kata.
 
 The aim of this documentation repository is to communicate our design for the problem described, for a stakeholder and development team audience.
 
-## Members
 
-- Ivan Georgiev [[LinkedIn](https://www.linkedin.com/in/ivan-georgiev-859b219/)]
-- Moran Lefler [[LinkedIn](https://www.linkedin.com/in/moranlefler/)]
-- Andrey Orsoev  [[LinkedIn](https://www.linkedin.com/in/andreyorsoev)]
-- Renu Kumari [[LinkedIn](https://www.linkedin.com/in/renu-kumari-827b8293/)]
-- Kavya Shiva  [[LinkedIn](https://www.linkedin.com/in/kavyashiva)]
 
 ## Solution Structure
 
@@ -67,5 +61,15 @@ The aim of this documentation repository is to communicate our design for the pr
 - [2022 Architecture Katas Requirements](assets/docs/diversitycybercouncilkatarequirements20221653334648065.pdf)
 
 ## References
+
+# Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+- Ivan Georgiev [[LinkedIn](https://www.linkedin.com/in/ivan-georgiev-859b219/)]
+- Andrey Orsoev  [[LinkedIn](https://www.linkedin.com/in/andreyorsoev)]
+- Kavya Shiva  [[LinkedIn](https://www.linkedin.com/in/kavyashiva)]
+- Moran Lefler [[LinkedIn](https://www.linkedin.com/in/moranlefler/)]
+- Renu Kumari [[LinkedIn](https://www.linkedin.com/in/renu-kumari-827b8293/)]
 
 ---
