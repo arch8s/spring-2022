@@ -1,3 +1,7 @@
+<a href='https://github.com/arch8s/spring-2022/blob/main/LICENSE'>
+<img src='https://img.shields.io/github/license/arch8s/spring-2022?style=for-the-badge'>  
+</a>
+
 <div align='center'>
   <img src="assets/images/arch8s.png" alt="Arch8s" style="zoom:50%;"/>
 </div>  
