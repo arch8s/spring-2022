@@ -9,6 +9,7 @@
 <img src="../../assets/plantuml/context.png" alt="C4 System Context Diagram">
 
 ## Level 2. Container
+<img src="../../assets/plantuml/container.png" alt="C4 System Context Diagram">
 
 ## Level 3. Component
 
