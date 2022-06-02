@@ -11,8 +11,6 @@
 * Business Goals
 * Business Drivers
 * Requirements and Engagement Models
-* Architecturally Significant Requirements
-* Significant Non-functional Requirements
 
 [Stakeholder Concerns](1.2.StakeholderConcerns.md)
 
