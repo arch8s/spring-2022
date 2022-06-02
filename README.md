@@ -23,11 +23,11 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 [Problem Background](1.Problem/README.md)
 
 - [Business Goals, Drivers & Requirements](1.Problem/1.1.BusinessGoalsDriversAndRequirements.md)
-- [Stakeholder Concerns](1.Problem/StakeholderConcerns.md)
-- [Architecture Analysis](1.Problem/ArchitectureAnalysis.md)
-- [Actors, Actions & Significant Scenarios](1.Problem/ActorsActionsAndSignificantScenarios.md)
-- [Constraints & Assumptions](1.Problem/ConstraintsAndAssumptions.md)
-- [RAID Log](1.Problem/RAID.md)
+- [Stakeholder Concerns](1.Problem/1.2.StakeholderConcerns.md)
+- [Architecture Analysis](1.Problem/1.3.ArchitectureAnalysis.md)
+- [Actors, Actions & Significant Scenarios](1.Problem/1.4.ActorsActionsAndSignificantScenarios.md)
+- [Constraints & Assumptions](1.Problem/1.5.ConstraintsAndAssumptions.md)
+- [RAID Log](1.Problem/1.6.RAID.md)
 
 [Solution Background](2.Solution/README.md)
 

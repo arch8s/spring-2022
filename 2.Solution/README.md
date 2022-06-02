@@ -51,4 +51,4 @@
 ---
 
 [> Home](../README.md)
-[< Prev](../1.Problem/RAID.md)  |  [Next >](ArchitecturePrinciples.md)
+[< Prev](../1.Problem/1.6.RAID.md)  |  [Next >](ArchitecturePrinciples.md)
