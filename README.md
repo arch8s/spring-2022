@@ -16,8 +16,6 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 
 ## 📖 Table of Contents
 
-[Clarifications](Clarifications.md)
-
 [Glossary](Glossary.md)
 
 [Problem Background](1.Problem/README.md)
@@ -66,5 +64,9 @@ Thanks goes to these wonderful people:
 - [Kavya Shiva](https://www.linkedin.com/in/kavyashiva)
 - [Moran Lefler](https://www.linkedin.com/in/moranlefler/)
 - [Renu Kumari](https://www.linkedin.com/in/renu-kumari-827b8293/)
+
+## Extras
+
+[Clarifications](Clarifications.md)
 
 ---
