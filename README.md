@@ -8,7 +8,7 @@
   <img src="assets/images/arch8s.png" alt="Arch8s"/>
   <h1>Team <strong>Arch8s</strong></h1>
   <b>O'Reilly Architectural Kata: Spring 2022</b>
-</div>  
+</div>
 
 <br />
 
@@ -60,6 +60,7 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 # Team ✨
 
 Thanks goes to these wonderful people:
+
 - [Ivan Georgiev](https://www.linkedin.com/in/ivan-georgiev-859b219/)
 - [Andrey Orsoev](https://www.linkedin.com/in/andreyorsoev)
 - [Kavya Shiva](https://www.linkedin.com/in/kavyashiva)
