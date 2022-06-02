@@ -10,7 +10,7 @@ The following are the concerns from the various stakeholders of the system. Thes
 | Stakeholder      | Concerns                                                                                                                                      | Initial Thoughts on Characteristics/Generics |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
 | NPO Registrator  | - Ease of onboarding<br/>- Being able to represent the NPO with distinctive information                                                       | Integration, Configurability                 |
-| Community Leader | - Trusts the system to schedule touch points with NPOs       | Data Integrity , Workflow                    |
+| Community Leader | - Trusts the system to schedule touch points with NPOs       | Data Integrity, Workflow                    |
 |Mentor| - Trusts the system to schedule meetings with candidates and track their career roadmap <br/>- Ease of matching NPO services to candidate needs | Workflow, Abstraction                        |
 |Candidate | - Ease of registration <br/>- profile and roadmap are available and up tp date                                                                | Availability, workflow                       |
 
