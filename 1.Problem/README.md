@@ -36,7 +36,7 @@
 
 * List of assumptions made
 
-[Raid Log](1.7.RAID.md)
+[RAID Log](1.7.RAID.md)
 
 ---
 [< Prev](../Glossary.md)  |  [Next >](1.1.BusinessGoalsDriversAndRequirements.md)
