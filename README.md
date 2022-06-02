@@ -36,7 +36,7 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 - [ ] [Security](2.Solution/Security.md)
 - [ ] [Deployment](2.Solution/Deployment.md)
 - [ ] [Roadmap](2.Solution/Roadmap.md)
-- [ ] [ADRs](5.ADRs/README.md)
+- [x] [ADRs](5.ADRs/README.md)
 
 [User Stories](3.UserStories/README.md)
 
