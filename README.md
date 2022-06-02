@@ -24,8 +24,9 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 - [ ] [Stakeholder Concerns](1.Problem/1.2.StakeholderConcerns.md)
 - [ ] [Architecture Analysis](1.Problem/1.3.ArchitectureAnalysis.md)
 - [ ] [Actors, Actions & Significant Scenarios](1.Problem/1.4.ActorsActionsAndSignificantScenarios.md)
-- [ ] [Constraints & Assumptions](1.Problem/1.5.ConstraintsAndAssumptions.md)
-- [ ] [RAID Log](1.Problem/1.6.RAID.md)
+- [ ] [Constraints](1.Problem/1.5.Constraints.md)
+- [ ] [Assumptions](1.Problem/1.6.Assumptions.md)
+- [ ] [RAID Log](1.Problem/1.7.RAID.md)
 
 [Solution Background](2.Solution/README.md)
 

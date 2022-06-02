@@ -28,12 +28,15 @@
 * Actors mapping to actions
 * Significant scenario flow diagrams
 
-[Constraints and Assumptions](1.5.Constraints.md)
+[Constraints](1.5.Constraints.md)
 
 * List of known constraints
+
+[Assumptions](1.6.Assumptions.md)
+
 * List of assumptions made
 
-[Raid Log](1.6.RAID.md)
+[Raid Log](1.7.RAID.md)
 
 ---
 
