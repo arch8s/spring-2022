@@ -32,11 +32,11 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 
 - [ ] [Architecture Principles](2.Solution/2.1.ArchitecturePrinciples.md)
 - [ ] [Overall Architecture Style Analysis](2.Solution/2.2.ArchitectureCharacteristics.md)
-- [ ] [Conceptual System Design](2.Solution/Conceptual.md)
-- [ ] [Data Store Solution](2.Solution/DataStore.md)
-- [ ] [Security](2.Solution/Security.md)
-- [ ] [Deployment](2.Solution/Deployment.md)
-- [ ] [Roadmap](2.Solution/Roadmap.md)
+- [ ] [Conceptual System Design](2.Solution/2.3.Conceptual.md))
+- [ ] [Data Store Solution](2.Solution/2.4.DataStore.md)
+- [ ] [Security](2.Solution/2.5.Security.md)
+- [ ] [Deployment](2.Solution/2.6.Deployment.md)
+- [ ] [Roadmap](2.Solution/2.7.Roadmap.md)
 - [x] [ADRs](5.ADRs/README.md)
 
 [User Stories](3.UserStories/README.md)
