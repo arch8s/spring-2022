@@ -4,7 +4,7 @@
 
 # Glossary (aka Ubiquitous Language)
 
-> Non-profit organization, NPO
+> Non-profit organization (NPO)
 
 > Community Leader
 
