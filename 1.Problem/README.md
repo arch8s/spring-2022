@@ -33,7 +33,7 @@
 * List of known constraints
 * List of assumptions made
 
-[Raid Log](1.6.RAID.md)
+[RAID Log](1.6.RAID.md)
 
 ---
 
