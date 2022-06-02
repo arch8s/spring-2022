@@ -7,10 +7,16 @@
 
 ## Background
 
+The Spotlight App Project is a sustained effort to amass a coalition of nonprofits in order to address specific needs within the communities we serve by leveraging a centralized platform as the base of operations to collaborate and make a collective impact.
+
 We want to provide a matching service platform which helps candidates who are in need of help that leads to career
 opportunities be trained, facilitated and help build confidence and aim to facilitate this with least turn around time.
 
 ## Business Goals
+
+1. Problem Statement #1: The decentralization and lack of support between nonprofits create gaps of service and overall impact.
+2. Problem Statement #2: The lack of visibility of nonprofit groups and offerings creates a barrier of access to the people we aim to serve.
+
 
 ### Short to medium
 
