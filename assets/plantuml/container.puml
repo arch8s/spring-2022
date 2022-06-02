@@ -1,7 +1,7 @@
-@startuml Spotlight context diagram
+@startuml Spotlight container diagram
 !includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/release/1-0/C4_Context.puml
 
-title Context diagram for Spotlight platform
+title Container diagram for Spotlight platform
 
 LAYOUT_WITH_LEGEND()
 
