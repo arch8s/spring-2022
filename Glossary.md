@@ -4,11 +4,17 @@
 
 # Glossary (aka Ubiquitous Language)
 
-> Non-profit organization (NPO)
+> Platform
+is a list of online teaching tools used for blended learning. In our context, the meeting place for candidates and NPOs
+
+> Non-profit organization (NPO) 
+is a group with a platform integration offering
 
 > Community Leader
+is a representative of the platform who facilitates NPOs in their processes and organisational needs
 
 > Candidate
+is a consumer of non-profit offerings, delivered via the platform
 
 > _Spotlight_ 
 is a platform to enable effective collaboration between NPOs and Candidates
