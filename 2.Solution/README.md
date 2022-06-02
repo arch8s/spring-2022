@@ -14,9 +14,9 @@
 * Security
 * Extendibility & Maintainability
 
-[Overall Architecture Style Analysis](2.2.ArchitectureCharacteristics.md)
+[Architecture Characteristics](2.2.ArchitectureCharacteristics.md)
 
-- Identified Key Architectural Characteristics
+- Key Architectural Characteristics
 - Architecture Capabilities Comparison
 - Architecture Capabilities Analysis
 - Conclusion
