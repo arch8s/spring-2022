@@ -1,14 +1,14 @@
 [> Home](../../README.md) [> Views](../README.md)  [> Functional View](README.md)  
-[< Prev](../README.md)  |  [Next >](../4.2.EventStorming/README.md)
+[< Prev](../README.md)  |  [Next >](NpoOnboarding.md) [Next >](CandidateSignup.md)
 
 ---
 # Functional Views
 
-## NPO onboarding
+[NPO onboarding](NpoOnboarding.md)
 
-<img src="../../assets/images/design-screen-npo-onboarding-1.png" alt="Design screen NPO onboarding 1">
+[Candidate Signup](CandidateSignup.md)
 
-
+[Homescreen Networking](HomescreenNetworking.md)
 
 
 ---
