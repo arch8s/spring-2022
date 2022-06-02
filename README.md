@@ -16,7 +16,7 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 
 ## 📖 Table of Contents
 
-[Glossary](Glossary.md)
+[🧑‍🚀 Glossary](Glossary.md)
 
 [Problem Background](1.Problem/README.md)
 
