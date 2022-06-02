@@ -26,18 +26,19 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 - [Stakeholder Concerns](1.Problem/1.2.StakeholderConcerns.md)
 - [Architecture Analysis](1.Problem/1.3.ArchitectureAnalysis.md)
 - [Actors, Actions & Significant Scenarios](1.Problem/1.4.ActorsActionsAndSignificantScenarios.md)
-- [Constraints & Assumptions](1.Problem/1.5.ConstraintsAndAssumptions.md)
+- [Constraints & Assumptions](1.Problem/1.5.Constraints.md)
+- [Assumptions](1.Problem/1.6.Assumptions.md)
 - [RAID Log](1.Problem/1.6.RAID.md)
 
 [Solution Background](2.Solution/README.md)
 
-- [Architecture Principles](2.Solution/ArchitecturePrinciples.md)
-- [Overall Architecture Style Analysis](2.Solution/ArchitectureAnalysis.md)
-- [Conceptual System Design](2.Solution/Conceptual.md)
-- [Data Store Solution](2.Solution/DataStore.md)
-- [Security](2.Solution/Security.md)
-- [Deployment](2.Solution/Deployment.md)
-- [Roadmap](2.Solution/Roadmap.md)
+- [Architecture Principles](2.Solution/2.1.ArchitecturePrinciples.md)
+- [Overall Architecture Style Analysis](2.Solution/2.2.ArchitectureAnalysis.md)
+- [Conceptual System Design](2.Solution/2.3.Conceptual.md)
+- [Data Store Solution](2.Solution/2.4.DataStore.md)
+- [Security](2.Solution/2.5.Security.md)
+- [Deployment](2.Solution/2.6.Deployment.md)
+- [Roadmap](2.Solution/2.7.Roadmap.md)
 - [ADRs](5.ADRs/README.md)
 
 [User Stories](3.UserStories/README.md)
@@ -46,10 +47,10 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 
 [Views & Perspectives](4.Views/README.md)
 
-- [Functional View](4.Views/FunctionalView/README.md)
-- [Event Storming](4.Views/EventStorming/README.md)
-- [Scenario Flow Diagrams](4.Views/Scenarios/README.md)
-- [C4 Models](4.Views/C4Models/README.md)
+- [Functional View](4.Views/4.1.FunctionalView/README.md)
+- [Event Storming](4.Views/4.2.EventStorming/README.md)
+- [Scenario Flow Diagrams](4.Views/4.3.Scenarios/README.md)
+- [C4 Models](4.Views/4.4.C4Models/README.md)
 
 ## Resources <a href='#' id='resources'></a>
 

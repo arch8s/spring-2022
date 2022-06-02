@@ -28,7 +28,7 @@
 * Actors mapping to actions
 * Significant scenario flow diagrams
 
-[Constraints and Assumptions](1.5.ConstraintsAndAssumptions.md)
+[Constraints and Assumptions](1.5.Constraints.md)
 
 * List of known constraints
 * List of assumptions made
