@@ -7,9 +7,57 @@
 
 ## Background
 
+We want to provide a matching service platform which helps candidates who are in need of help that leads to career
+opportunities be trained, facilitated and help build confidence and aim to facilitate this with least turn around time.
+
 ## Business Goals
 
+### Short to medium
+
+Provide a platform for registrations
+
+Support administrator role
+
+Support candidate registration role
+
+Support NPO registration
+
+Automatic match of pupils to NPOs based on registration
+
+### Medium to long term
+
+Expand this platform to other cities and state wide NPOs
+
+Provide ability to scale as the demands grow with least human intervention
+
+Expand the platform into variety of other fields like
+
+
+
+### Long term goals
+
+Migrate to cloud
+
+Build an eco system that can be adaptable country wide.
+
+Expand it in the country so this service can be offered for more people across the country
+
+Perform healthchecks on NPOs and candidates*
+
+Provide a default UI but also allow it to be customisable
+
+Ability to sell the platform to support the budget that is required to maintain the system*
+
+Clarification and out of scope artifacts
+
+1. Community leader
+2. Donations to the platform*
+3. Advertisements (to earn money for the platform)
+
+
 ## Business Drivers
+
+
 
 # Requirements and Engagement model
 
