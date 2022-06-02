@@ -57,6 +57,7 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 - [x] [O'Reilly Architecture Katas](https://learning.oreilly.com/featured/architectural-katas/)
 - [x] [Diversity Cyber Council](https://www.diversitycybercouncil.com/)
 - [x] [2022 Architecture Katas Requirements](assets/docs/diversitycybercouncilkatarequirements20221653334648065.pdf)
+- [x] [Updated requirements] https://docs.google.com/document/d/1XjEpcGJ87xYg1eWN9eE0_tH7te5HcVAgPvoONLHY4qQ/edit?usp=sharing
 
 ## References
 
