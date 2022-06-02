@@ -6,7 +6,7 @@
 # C4 Models
 
 ## Level 1. System Context
-[![Context diagram](assets/plantuml/context.svg)]()
+<img src="https://raw.githubusercontent.com/arch8s/spring-2022/main/assets/plantuml/context.svg"/>
 
 ## Level 2. Container
 
