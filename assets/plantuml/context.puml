@@ -1,0 +1,34 @@
+@startuml Spotlight context diagram
+!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/release/1-0/C4_Context.puml
+
+title Context diagram for Spotlight platform
+
+LAYOUT_WITH_LEGEND()
+
+Person(community_leader, "Community Leader", "A platform administrator for DCC Spotlight")
+Person(npo_admin, "NPO Admin", "a NPO leader")
+Person(mentor, "Mentor", "a Mentor")
+Person(candidate, "Candidate", "a person with certain need")
+Person_Ext(visitor, "Visitor", "a person with interest")
+
+System_Boundary(diversity_cyber_council, "Diversity Cyber Council") {
+    System(spotlight, "Spotlight", "Drives the business logic and enforces constraints")
+}
+
+System_Ext(s3, "File storage", "Handles storage of files")
+System_Ext(ses, "Notification service", "Handles push notifications and transactional emails")
+System_Ext(rds, "Database", "Handles data persistance")
+System_Ext(serverless, "Computing power", "Renders PDFs in scalable way")
+
+Rel(community_leader, spotlight, "Supports and Reviews NPOs")
+Rel(npo_admin, spotlight, "Register NPO, publish content, manages mentors")
+Rel(mentor, spotlight, "Supports Candidates, setup Career Roadmap for candidate")
+Rel(candidate, spotlight, "Applies for and consumes services")
+Rel(visitor, spotlight, "Looks for content")
+
+Rel(spotlight, s3, "(Optionally) stores files in ")
+Rel(spotlight, ses, "(Optionally) sends notifications via ")
+Rel(spotlight, rds, "(Optionally) stores data via ")
+Rel(spotlight, serverless, "(Optionally) uses computing power via ")
+
+@enduml
