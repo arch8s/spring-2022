@@ -1,5 +1,5 @@
 [> Home](README.md)
 
 
-[< Prev](../README.md)  |  [Next >]()
+[< Prev](README.md)  |  [Next >]()
 
