@@ -22,7 +22,6 @@ System is split into 3 different actors Community Leader, Non-profit staff and c
 | NPO Registrator        | • Registers NPO<br />• Declares services providing                                                                                 | Non-profit | Y    |
 | Editor                 | • Non-Profits to publicize offerings to the platform                                                                                | Non-profit | Y    |
 | Mentor                 | • Assigned to candidate<br />• creates career roadmap<br />• meet with candidate<br />• updates candidate assignment in platform | Non-profit | Y    |
-|                        |                                                                                                                                      |            |      |
 | ---                    | ---                                                                                                                                  | ---        | ---  |
 | Candidate              | • Register with platform<br />• Platform match with educational offerings                                                          | Candidate  |      |
 
