@@ -1,6 +1,8 @@
 [> Home](README.md)
-[< Prev](README.md)  |  [Next >](1.Problem/README.md)
-<hr/>
+
+[< Prev (Home)](README.md)  |  [Next (Problem Background) >](1.Problem/README.md)
+
+---
 
 # Glossary (aka Ubiquitous Language)
 
@@ -25,6 +27,5 @@ is a tool in software development used to capture a description of a software fe
 > _Kata_
 is a system of individual training exercises in karate and other martial art. In our context, regular exercise to master your skills.
 
-<hr />
-
-[< Prev](README.md)  |  [Next >](1.Problem/README.md)
+---
+[< Prev (Home)](README.md)  |  [Next (Problem Background) >](1.Problem/README.md)

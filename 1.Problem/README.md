@@ -1,5 +1,5 @@
-[&gt; Home](../README.md)
-[&lt; Prev](../Glossary.md)  |  [Next &gt;](1.1.BusinessGoalsDriversAndRequirements.md)
+[> Home](../README.md)
+[< Prev](../Glossary.md)  |  [Next >](1.1.BusinessGoalsDriversAndRequirements.md)
 
 ---
 
@@ -36,5 +36,7 @@
 
 [RAID Log](1.7.RAID.md)
 
+
 ---
+
 [< Prev](../Glossary.md)  |  [Next >](1.1.BusinessGoalsDriversAndRequirements.md)
