@@ -31,7 +31,7 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 [Solution Background](2.Solution/README.md)
 
 - [ ] [Architecture Principles](2.Solution/2.1.ArchitecturePrinciples.md)
-- [ ] [Overall Architecture Style Analysis](2.Solution/ArchitectureAnalysis.md)
+- [ ] [Overall Architecture Style Analysis](2.Solution/2.2.ArchitectureCharacteristics.md)
 - [ ] [Conceptual System Design](2.Solution/Conceptual.md)
 - [ ] [Data Store Solution](2.Solution/DataStore.md)
 - [ ] [Security](2.Solution/Security.md)
