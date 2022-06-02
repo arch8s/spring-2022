@@ -1,0 +1,38 @@
+@startuml backend
+!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/release/1-0/C4_Component.puml
+
+title Component diagram for Backend API
+
+
+System_Boundary(api, "Backend API") {
+    ' Engagement-related modules
+    Component(competitions, "Competitions", "module", "Manages challenges, groupings and competitions")  
+    Component(events, "Events", "module", "Manages events (weekly spotlights, masterminds, AMA sessions)")  
+    Component(achievements, "Achievements", "module", "Manages candidates and NPOs badges and awards")  
+    Component(communities, "Communities", "module", "Manages communities and related permissions")  
+    Component(leaders, "Community Leaders", "module", "Manages assignments for communities")
+    Component(partnerships, "Partnerships", "module", "Manages partnership flow for NPOs")
+    
+    ' Networking-related modules
+    Component(notifications, "Notifications", "module", "Manages Push notifications/Emails")
+    Component(social, "Social Networks", "module", "Controls chatbots and social networks")
+    Component(meetings, "Meetings", "module", "Manages calls between mentors and candidaters, community leaders and mentors")
+    
+    ' Tracker-related modules
+    Component(evaluation, "Evaluation", "module", "Manages assessments for mentors and candidates")
+    Component(docrender, "Document Rendering", "module", "Renders PDF")
+    Component(docparser, "Document Parsing", "module", "Parses different types of documents")
+    Component(dockeeper, "Document Storage", "module", "Store documents")
+      
+    ' Common
+    Component(taxonomy, "Service Taxonomy", "module", "Serves service offering catalog, enables search engine")
+    Component(roadmaps, "Career Roadmaps", "module", "Manages career roadmaps for candidates with quality gates")
+    Component(recommender, "NPO Recommender", "module", "Matches candidate assessment against NPOs and their services")
+    Component(bond, "Analytics & Reporting", "module", "Provides operational and analytical reports")
+    Component(profanity, "Censorship", "module", "Provides profanity filters for content")
+    Component(antifraud, "Fraud", "module", "Provides scoring for NPOs, basic KYB/KYC")  
+    Component(permissions, "User management", "module", "Manages roles and permissions")  
+    ComponentDb(file_storage, "Local file storage", "k8s persistent volume", "Stores files within our own system")    
+}
+
+@enduml
