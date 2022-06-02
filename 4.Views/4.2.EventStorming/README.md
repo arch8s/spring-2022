@@ -1,5 +1,5 @@
-[> Home](../README.md) [> Views](../README.md)  [> C4 Models](README.md)
-[< Prev](../README.md)  |  [Next >]()
+[> Home](../../README.md) [> Views](../README.md)  [> Event Storming](README.md)
+[< Prev](../4.1.FunctionalView/README.md)  |  [Next >](../4.3.Scenarios/README.md)
 
 ## Partnership Event Storming
 
