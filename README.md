@@ -20,42 +20,42 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 
 [Problem Background](1.Problem/README.md)
 
-- [Business Goals, Drivers & Requirements](1.Problem/1.1.BusinessGoalsDriversAndRequirements.md)
-- [Stakeholder Concerns](1.Problem/1.2.StakeholderConcerns.md)
-- [Architecture Analysis](1.Problem/1.3.ArchitectureAnalysis.md)
-- [Actors, Actions & Significant Scenarios](1.Problem/1.4.ActorsActionsAndSignificantScenarios.md)
-- [Constraints & Assumptions](1.Problem/1.5.ConstraintsAndAssumptions.md)
-- [RAID Log](1.Problem/1.6.RAID.md)
+- [ ] [Business Goals, Drivers & Requirements](1.Problem/1.1.BusinessGoalsDriversAndRequirements.md)
+- [ ] [Stakeholder Concerns](1.Problem/1.2.StakeholderConcerns.md)
+- [ ] [Architecture Analysis](1.Problem/1.3.ArchitectureAnalysis.md)
+- [ ] [Actors, Actions & Significant Scenarios](1.Problem/1.4.ActorsActionsAndSignificantScenarios.md)
+- [ ] [Constraints & Assumptions](1.Problem/1.5.ConstraintsAndAssumptions.md)
+- [ ] [RAID Log](1.Problem/1.6.RAID.md)
 
 [Solution Background](2.Solution/README.md)
 
-- [Architecture Principles](2.Solution/ArchitecturePrinciples.md)
-- [Overall Architecture Style Analysis](2.Solution/ArchitectureAnalysis.md)
-- [Conceptual System Design](2.Solution/Conceptual.md)
-- [Data Store Solution](2.Solution/DataStore.md)
-- [Security](2.Solution/Security.md)
-- [Deployment](2.Solution/Deployment.md)
-- [Roadmap](2.Solution/Roadmap.md)
-- [ADRs](5.ADRs/README.md)
+- [ ] [Architecture Principles](2.Solution/ArchitecturePrinciples.md)
+- [ ] [Overall Architecture Style Analysis](2.Solution/ArchitectureAnalysis.md)
+- [ ] [Conceptual System Design](2.Solution/Conceptual.md)
+- [ ] [Data Store Solution](2.Solution/DataStore.md)
+- [ ] [Security](2.Solution/Security.md)
+- [ ] [Deployment](2.Solution/Deployment.md)
+- [ ] [Roadmap](2.Solution/Roadmap.md)
+- [ ] [ADRs](5.ADRs/README.md)
 
 [User Stories](3.UserStories/README.md)
 
-- [Platform Admins](3.UserStories/Platform/Admin/CRUD.md)
-- [NPO staff](3.UserStories/NPO/Staff/CRUD.md)
-- [Candidates](3.UserStories/Candidate/CRUD.md)
+- [ ] [Platform Admins](3.UserStories/Platform/Admin/CRUD.md)
+- [ ] [NPO staff](3.UserStories/NPO/Staff/CRUD.md)
+- [ ] [Candidates](3.UserStories/Candidate/CRUD.md)
 
 [Views & Perspectives](4.Views/README.md)
 
-- [Functional View](4.Views/FunctionalView/README.md)
-- [Event Storming](4.Views/EventStorming/README.md)
-- [Scenario Flow Diagrams](4.Views/Scenarios/README.md)
-- [C4 Models](4.Views/C4Models/README.md)
+- [ ] [Functional View](4.Views/FunctionalView/README.md)
+- [ ] [Event Storming](4.Views/EventStorming/README.md)
+- [ ] [Scenario Flow Diagrams](4.Views/Scenarios/README.md)
+- [ ] [C4 Models](4.Views/C4Models/README.md)
 
 ## Resources <a href='#' id='resources'></a>
 
-- [O'Reilly Architecture Katas](https://learning.oreilly.com/featured/architectural-katas/)
-- [Diversity Cyber Council](https://www.diversitycybercouncil.com/)
-- [2022 Architecture Katas Requirements](assets/docs/diversitycybercouncilkatarequirements20221653334648065.pdf)
+- [ ] [O'Reilly Architecture Katas](https://learning.oreilly.com/featured/architectural-katas/)
+- [ ] [Diversity Cyber Council](https://www.diversitycybercouncil.com/)
+- [ ] [2022 Architecture Katas Requirements](assets/docs/diversitycybercouncilkatarequirements20221653334648065.pdf)
 
 ## References
 
