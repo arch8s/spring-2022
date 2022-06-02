@@ -6,6 +6,7 @@
 # C4 Models
 
 ## Level 1. System Context
+[![Context diagram](assets/plantuml/context.svg)]()
 
 ## Level 2. Container
 
