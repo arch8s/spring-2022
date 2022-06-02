@@ -14,17 +14,17 @@ and key scenarios that will inform the architecture of the Spotlight Platform sy
 System is split into 3 different actors Community Leader, Non-profit staff and candidates. For security reason we've split into more specific user roles.
 
 
-| Actor            | Actions                                                                                                                              | Type       | NPO$ |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------ |
-| Platform Administrator    | • Controls Non-profit organizations<br /> •                                                                                          | Platform   |      |
-| Community Leader | • Assigned to NPOs<br /> • Regular meetings with NPOs                                                                           | Platform   | Y    |
-| ---              | ---                                                                                                                                  | ---        | ---  |
-| NPO Registrator  | • Registers NPO<br />• Declares services providing                                                                                      | Non-profit | Y    |
-| Editor           | • Non-Profits to publicize offerings to the platform                                                                                | Non-profit | Y    |
-| Mentor           | • Assigned to candidate<br />• creates career roadmap<br />• meet with candidate<br />• updates candidate assignment in platform | Non-profit | Y    |
-|                  |                                                                                                                                      |            |      |
-| ---              | ---                                                                                                                                  | ---        | ---  |
-| Candidate        | • Register with platform<br />• Platform match with educational offerings                                                          | Candidate  |      |
+| Actor                  | Actions                                                                                                                              | Type       | NPO$ |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------ |
+| Platform Administrator | • Controls Non-profit organizations<br /> •                                                                                        | Platform   |      |
+| Community Leader       | • Assigned to NPOs<br /> • Regular meetings with NPOs                                                                              | Platform   | Y    |
+| ---                    | ---                                                                                                                                  | ---        | ---  |
+| NPO Registrator        | • Registers NPO<br />• Declares services providing                                                                                 | Non-profit | Y    |
+| Editor                 | • Non-Profits to publicize offerings to the platform                                                                                | Non-profit | Y    |
+| Mentor                 | • Assigned to candidate<br />• creates career roadmap<br />• meet with candidate<br />• updates candidate assignment in platform | Non-profit | Y    |
+|                        |                                                                                                                                      |            |      |
+| ---                    | ---                                                                                                                                  | ---        | ---  |
+| Candidate              | • Register with platform<br />• Platform match with educational offerings                                                          | Candidate  |      |
 
 $ Requires NPO many-to-one relationship
 
