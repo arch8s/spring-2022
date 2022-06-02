@@ -1,5 +1,5 @@
 @startuml Spotlight container diagram
-!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/release/1-0/C4_Context.puml
+!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/release/1-0/C4_Container.puml
 
 title Container diagram for Spotlight platform
 
@@ -12,9 +12,9 @@ Person(candidate, "Candidate", "a person with certain need")
 Person_Ext(visitor, "Visitor", "a person with interest")
 
 System_Boundary(spotlight, "Spotlight platform") {
-    System(spa_app, "Single Page Application (ReactJs)", "Provides WEB interface")
-    System(mobile_app, "Mobile Application (iOs/Android/Aurora)", "Provides portable (smartphone/tablet) access")    
-    System(api, "Backend API", "Drives the business logic and enforces constraints")
+    Container(spa_app, "Single Page Application", "Javascript, ReactJS", "Provides WEB interface")
+    Container(mobile_app, "Mobile Application", "iOS, Android", "Provides portable (smartphone/tablet) access")    
+    Container(api, "Backend API", "Java, Spring Boot", "Drives the business logic and enforces constraints")
 }
 
 System_Ext(s3, "File storage", "Handles storage of files")
