@@ -49,7 +49,7 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 
 - [ ] [Functional View](4.Views/4.1.FunctionalView/README.md)
 - [ ] [Event Storming](4.Views/4.2.EventStorming/README.md)
-- [ ] [Scenario Flow Diagrams](4.Views/4.3.Scenarios/README.md)
+- [x] [Scenario Flow Diagrams](4.Views/4.3.Scenarios/README.md)
 - [x] [C4 Models](4.Views/4.4.C4Models/README.md)
 
 ## Resources <a href='#' id='resources'></a>
