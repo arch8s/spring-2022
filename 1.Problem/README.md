@@ -36,6 +36,4 @@
 [RAID Log](1.6.RAID.md)
 
 ---
-
-[&gt; Home](../README.md)
-[&lt; Prev](../Glossary.md)  |  [Next &gt;](1.1.BusinessGoalsDriversAndRequirements.md)
+[< Prev](../Glossary.md)  |  [Next >](1.1.BusinessGoalsDriversAndRequirements.md)
