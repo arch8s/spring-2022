@@ -10,6 +10,7 @@
 
 [Homescreen Networking](HomescreenNetworking.md)
 
+[Candidate Mobile](CandidateMobile.md)
 
 ---
 [< Prev](../README.md)  |  [Next >](../4.2.EventStorming/README.md)
