@@ -47,7 +47,7 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 
 [Views & Perspectives](4.Views/README.md)
 
-- [ ]  [Functional View](4.Views/4.1.FunctionalView/README.md)
+- [X]  [Functional View](4.Views/4.1.FunctionalView/README.md)
 - [X]  [Event Storming](4.Views/4.2.EventStorming/README.md)
 - [X]  [Scenario Flow Diagrams](4.Views/4.3.Scenarios/README.md)
 - [X]  [C4 Models](4.Views/4.4.C4Models/README.md)
