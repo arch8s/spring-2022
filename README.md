@@ -30,7 +30,7 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 
 [Solution Background](2.Solution/README.md)
 
-- [ ]  [Architecture Principles](2.Solution/2.1.ArchitecturePrinciples.md)
+- [X]  [Architecture Principles](2.Solution/2.1.ArchitecturePrinciples.md)
 - [ ]  [Overall Architecture Style Analysis](2.Solution/2.2.ArchitectureCharacteristics.md)
 - [ ]  [Conceptual System Design](2.Solution/2.3.Conceptual.md)
 - [ ]  [Data Store Solution](2.Solution/2.4.DataStore.md)
@@ -48,7 +48,7 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 [Views & Perspectives](4.Views/README.md)
 
 - [ ]  [Functional View](4.Views/4.1.FunctionalView/README.md)
-- [ ]  [Event Storming](4.Views/4.2.EventStorming/README.md)
+- [X]  [Event Storming](4.Views/4.2.EventStorming/README.md)
 - [X]  [Scenario Flow Diagrams](4.Views/4.3.Scenarios/README.md)
 - [X]  [C4 Models](4.Views/4.4.C4Models/README.md)
 
