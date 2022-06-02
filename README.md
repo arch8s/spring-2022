@@ -41,6 +41,8 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 [User Stories](3.UserStories/README.md)
 
 - [Platform Admins](3.UserStories/Platform/Admin/CRUD.md)
+- [NPO staff](3.UserStories/NPO/Staff/CRUD.md)
+- [Candidates](3.UserStories/Candidate/CRUD.md)
 
 [Views & Perspectives](4.Views/README.md)
 
