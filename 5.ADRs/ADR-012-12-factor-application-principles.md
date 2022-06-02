@@ -20,7 +20,7 @@ The 12 Factor App is a methodolody developed by the team at Heroku in 2012. It d
 
 ## Decision
 
-<!-- The decision given with with rational // -->
+<!-- The decision given with rational // -->
 
 ## Consequences
 
