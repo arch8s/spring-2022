@@ -3,7 +3,10 @@
 
 <hr />
 
-# Community Leaders User stories
+# Community Leader User stories
+
+## Community Leader
+1. 
 
 <hr />
 
