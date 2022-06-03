@@ -1,41 +1,43 @@
-[> Home](../README.md)    [> ADRs](README.md)
+[> Home](../README.md) [> ADRs](README.md) > **ADR-009** Use cloud infrastructure - AWS
+
+[< Prev](ADR-008-separation-of-concerns.md)  |  [Next >](ADR-010-authorization-OAuth.md)
 
 ---
 
-# Use cloud infrastructure<!-- ADR title //-->
+# Use cloud infrastructure - AWS
 
-Date: 2022-06-01<!-- current date //-->
+Date: 2022-06-01
 
 ## Status
 
-Confirmed <!-- (Draft|Proposed|Confirmed) //-->
+Confirmed
 
 ## Context
 
-We need to be able to scale DCC Spotlight without spending much time and resources. We discussed traditional hosting provider vs cloud provider pros and cons.<!-- Add some context to explain what was the reason to introduce this ADR //-->
+We need to be able to scale DCC Spotlight without spending much time and resources. We discussed traditional hosting provider vs cloud provider pros and cons.
 
 ## Decision
 
-We voted for AWS as main provider for our project.<!-- The decision given with with rational // -->
+We voted for AWS as main provider for our project.
 
 ## Consequences
 
 **Positive:**
 
-- AWS has many ready-to-use services<!-- One of the drivers to consider it // -->
+- AWS has many ready-to-use services
 - Some services can be easy to start with (and yet hard to master)
 
 **Negative:**
 
-- We raise a bar with that decision, since there are limited amount of AWS specialist on the market<!-- One of the drivers to reject it // -->
+- We raise a bar with that decision, since there are limited amount of AWS specialist on the market
 
 **Risks:**
 
-- Classic vendor lock-in, which we need to tackle with some deployment abstraction like Terraform<!-- Some risks // -->
+- Classic vendor lock-in, which we need to tackle with some deployment abstraction like Terraform
 
 **Bonus Features:**
 
-- <!-- What we get for free // -->
+- 
 Amazon EC2 - cloud compute
 Amazon S3 - files storage  
 AWS Lambda - serverless, event-driven compute service
@@ -43,4 +45,4 @@ Amazon Aurora - relational database management system with full PostgreSQL compa
 
 ---
 
-[> Home](../README.md)    [> ADRs](README.md)
+[< Prev](ADR-008-separation-of-concerns.md)  |  [Next >](ADR-010-authorization-OAuth.md)

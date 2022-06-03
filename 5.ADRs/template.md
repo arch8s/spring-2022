@@ -1,4 +1,6 @@
-[> Home](../README.md)    [> ADRs](README.md)
+[> Home](../README.md) [> ADRs](README.md) > <!-- ADR title //-->
+
+[< Prev](README.md)  |  [Next >](README.md)
 
 ---
 
@@ -38,4 +40,4 @@ Date: <!-- current date //-->
 
 ---
 
-[> Home](../README.md)    [> ADRs](README.md)
+[< Prev](README.md)  |  [Next >](README.md)

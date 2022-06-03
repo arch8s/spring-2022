@@ -1,4 +1,6 @@
-[> Home](../README.md)    [> ADRs](README.md)
+[> Home](../README.md) [> ADRs](README.md) > **ADR-002** Use SPA + API to enable mobile app for platform
+
+[< Prev](ADR-001-use-adr.md)  |  [Next >](ADR-003-rest-api-versioning.md)
 
 ---
 
@@ -37,4 +39,5 @@ We decided to switch from front-end monolith, where backend renders the UI to th
 
 ---
 
-[> Home](../README.md)    [> ADRs](README.md)
+[< Prev](ADR-001-use-adr.md)  |  [Next >](ADR-003-rest-api-versioning.md)
+

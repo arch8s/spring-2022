@@ -1,4 +1,6 @@
-[> Home](../README.md)    [> ADRs](README.md)
+[> Home](../README.md) [> ADRs](README.md) > **ADR-004** Use PostgreSQL with multi-tenant database structure
+
+[< Prev](ADR-003-rest-api-versioning.md)  |  [Next >](ADR-005-use-docker.md)
 
 ---
 
@@ -42,4 +44,4 @@ We plan to use multitenant databases to isolate domains in modular architecture.
 
 ---
 
-[> Home](../README.md)    [> ADRs](README.md)
+[< Prev](ADR-003-rest-api-versioning.md)  |  [Next >](ADR-005-use-docker.md)

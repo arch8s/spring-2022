@@ -1,26 +1,24 @@
-[> Home](../README.md)    [> ADRs](README.md)
+[> Home](../README.md) [> ADRs](README.md) > **ADR-012** Use 12-factor application principles
+
+[< Prev](ADR-011-4-eyes-review.md)  |  [Next >](README.md)
 
 ---
 
-# Use 12-factor application principles<!-- ADR title //-->
+# Use 12-factor application principles
 
-Date: 2022-06-01<!-- current date //-->
+Date: 2022-06-01
 
 ## Status
 
 Confirmed
 
-<!-- (Draft|Proposed|Confirmed) //-->
-
 ## Context
 
 The 12 Factor App is a methodolody developed by the team at Heroku in 2012. It defines a set of rules (known as the 12 Factor App Principles) to follow when building SaaS applicaitons.
 
-<!-- Add some context to explain what was the reason to introduce this ADR //-->
-
 ## Decision
 
-<!-- The decision given with rational // -->
+
 
 ## Consequences
 
@@ -33,16 +31,16 @@ The 12 Factor App is a methodolody developed by the team at Heroku in 2012. It d
 
 **Negative:**
 
-- <!-- One of the drivers to reject it // -->
+- 
 
 **Risks:**
 
-- <!-- Some risks // -->
+- 
 
 **Bonus Features:**
 
-- <!-- What we get for free // -->
+- 
 
 ---
 
-[> Home](../README.md)    [> ADRs](README.md)
+[< Prev](ADR-011-4-eyes-review.md)  |  [Next >](README.md)

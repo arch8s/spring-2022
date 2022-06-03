@@ -1,9 +1,11 @@
-[> Home](../README.md)
-[< Prev](../2.Solution/2.7.Roadmap.md)  |  [Next >](../4.Views/README.md)
+[> Home](../README.md) > ADRs
 
+[< Prev](../2.Solution/2.7.Roadmap.md)  |  [Next >](ADR-001-use-adr.md)
+
+---
 
 ADRs
-- [001 We are using ADRs to keep project architecture decisions documented](ADR-001-template.md)
+- [001 We are using ADRs to keep project architecture decisions documented](ADR-001-use-adr.md)
 - [002 Use SPA + API to enable mobile app for platform](ADR-002-spa-api-mobile.md)
 - [003 Use versioning for the REST API](ADR-003-rest-api-versioning.md)
 - [004 Use PostgreSQL with multi-tenant database structure](ADR-004-PostgreSQL-database.md)

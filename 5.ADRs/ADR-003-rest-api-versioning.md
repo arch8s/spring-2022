@@ -1,6 +1,9 @@
-[> Home](../README.md)    [> ADRs](README.md)
+[> Home](../README.md) [> ADRs](README.md) > **ADR-003** Use versioning for the REST API
+
+[< Prev](ADR-002-spa-api-mobile.md)  |  [Next >](ADR-004-PostgreSQL-database.md)
 
 ---
+
 
 # Use versioning for the REST API
 
@@ -35,4 +38,4 @@ We deliberately decided to use version prefix in API URL, i.e. /api/v1/ in order
 
 ---
 
-[> Home](../README.md)    [> ADRs](README.md)
+[< Prev](ADR-002-spa-api-mobile.md)  |  [Next >](ADR-004-PostgreSQL-database.md)

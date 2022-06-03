@@ -1,6 +1,9 @@
-[> Home](../README.md)    [> ADRs](README.md)
+[> Home](../README.md) [> ADRs](README.md) > **ADR-006** Use zero-trust service communication model
+
+[< Prev](ADR-005-use-docker.md)  |  [Next >](ADR-007-hybrid-architecture.md)
 
 ---
+
 
 # Use zero-trust service communication model 
 
@@ -37,4 +40,4 @@ We decided to pick [zero-trust service communication model](https://www.crowdstr
 
 ---
 
-[> Home](../README.md)    [> ADRs](README.md)
+[< Prev](ADR-005-use-docker.md)  |  [Next >](ADR-007-hybrid-architecture.md)

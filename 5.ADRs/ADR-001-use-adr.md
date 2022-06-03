@@ -1,8 +1,10 @@
-[> Home](../README.md)    [> ADRs](README.md)
+[> Home](../README.md) [> ADRs](README.md) > **ADR-001** Record architecture decisions
+
+[< Prev](README.md)  |  [Next >](ADR-002-spa-api-mobile.md)
 
 ---
 
-# Record architecture decisions
+# ADR-001 Record architecture decisions
 
 Date: 2022-05-26
 
@@ -40,4 +42,4 @@ Architecture Decision Records, [as described by Michael Nygard](http://thinkrele
 
 ---
 
-[> Home](../README.md)    [> ADRs](README.md)
+[< Prev](README.md)  |  [Next >](ADR-002-spa-api-mobile.md)
