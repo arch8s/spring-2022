@@ -10,6 +10,7 @@ Below we presented our user stories for:
 - [NPO staff](NPO.md)
 - [Candidate](Candidate.md)
 - [Platform Admin](PlatformAdmin.md)
+- [Community Leader](CommunityLeader.md) 
 
 ## Personas
 
