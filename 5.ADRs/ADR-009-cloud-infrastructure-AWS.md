@@ -26,6 +26,7 @@ We voted for AWS as main provider for our project.
 
 - AWS has many ready-to-use services
 - Some services can be easy to start with (and yet hard to master)
+- [nonprofit credit program](https://aws.amazon.com/government-education/nonprofits/nonprofit-credit-program/)
 
 **Negative:**
 

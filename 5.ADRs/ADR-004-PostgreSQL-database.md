@@ -10,7 +10,7 @@ Date: 2022-05-27
 
 ## Status
 
-Comfirmed
+Confirmed
 
 ## Context
 
@@ -19,9 +19,9 @@ We want to simplify the maintenance of the tech stack
 ## Decision
 
 We decided to use the PostgreSQL [version 13.x](https://endoflife.date/postgresql) as a main database since
-it has a good support from community and cloud platforms, rich of features and supports the multitenant databases.
+it has a good support from community and cloud platforms, rich of features and supports the multi-tenant databases.
 
-We plan to use multitenant databases to isolate domains in modular architecture. It will help also to optimize hosting costs at start.
+We plan to use multi-tenant databases to isolate domains in modular architecture. It will help also to optimize hosting costs at start.
 
 ## Consequences
 

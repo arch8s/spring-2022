@@ -40,11 +40,11 @@
 *  [ ] Data Protection
 *  [ ] Threat Detection & Monitoring
 
-[Deployment](2.6.Deployment.md)
+[Deployment](2.7.Deployment.md)
 
 *  [ ] Infrastructure
 
-[Roadmap](2.7.Roadmap.md)
+[Roadmap](2.8.Roadmap.md)
 
 [ADRs](../5.ADRs/README.md)
 
