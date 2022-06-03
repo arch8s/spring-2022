@@ -70,6 +70,8 @@ Thanks goes to these wonderful people:
 
 - [Ivan Georgiev](https://www.linkedin.com/in/ivan-georgiev-859b219/)
 - [Andrey Orsoev](https://www.linkedin.com/in/andreyorsoev)
+
+Decided to focus on other things:
 - [Kavya Shiva](https://www.linkedin.com/in/kavyashiva)
 - [Moran Lefler](https://www.linkedin.com/in/moranlefler/)
 - [Renu Kumari](https://www.linkedin.com/in/renu-kumari-827b8293/)
