@@ -35,7 +35,7 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 - [x]  [Architecture Characteristics](2.Solution/2.2.ArchitectureCharacteristics.md)
 - [ ]  [Conceptual System Design](2.Solution/2.3.Conceptual.md)
 - [ ]  [Data Store Solution](2.Solution/2.4.DataStore.md)
-- [ ]  [Security](2.Solution/2.5.Security.md)
+- [x]  [Security](2.Solution/2.5.Security.md)
 - [ ]  [Deployment](2.Solution/2.7.Deployment.md)
 - [ ]  [Roadmap](2.Solution/2.8.Roadmap.md)
 
