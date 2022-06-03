@@ -10,4 +10,7 @@ As a < type of user >, I want < some goal > so that < some reason >.
 - [Candidates](Candidate/CRUD.md)
 - [Platform Admins](Platform/Admin/CRUD.md)
 
+## Personas
+![Candidate Joe](../assets/images/joe.png)
+
 [< Prev](/2.Solution/README.md)  |  [Next >]()
