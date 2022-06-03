@@ -6,9 +6,9 @@
 
 As a < type of user >, I want < some goal > so that < some reason >.
 
-- [NPO staff](NPO/Staff/CRUD.md)
-- [Candidates](Candidate/CRUD.md)
-- [Platform Admins](Platform/Admin/CRUD.md)
+- [NPO staff](NPO.md)
+- [Candidates](Candidate.md)
+- [Platform Admins](PlatformAdmin.md)
 
 ## Personas
 

@@ -1,4 +1,4 @@
-[> Home](../README.md)  [> User Stories](README.md)
+[> Home](README.md)  [> User Stories](README.md)
 [< Prev]()  |  [Next >]()
 
 <hr />
@@ -12,5 +12,5 @@
 <hr />
 
 
-[> Home](../README.md)  [> User Stories](README.md)
+[> Home](README.md)  [> User Stories](README.md)
 [< Prev]()  |  [Next >]()
