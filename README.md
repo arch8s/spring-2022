@@ -21,7 +21,7 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 
 [1️⃣ Problem Background](1.Problem/README.md)
 
-- [ ]  [Business Goals, Drivers & Requirements](1.Problem/1.1.BusinessGoalsDriversAndRequirements.md)
+- [x]  [Business Goals, Drivers & Requirements](1.Problem/1.1.BusinessGoalsDriversAndRequirements.md)
 - [X]  [Stakeholder Concerns](1.Problem/1.2.StakeholderConcerns.md)
 - [X]  [Architecture Analysis](1.Problem/1.3.ArchitectureAnalysis.md)
 - [X]  [Actors, Actions & Significant Scenarios](1.Problem/1.4.ActorsActionsAndSignificantScenarios.md)
