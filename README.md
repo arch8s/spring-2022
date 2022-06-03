@@ -37,7 +37,7 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 - [ ]  [Data Store Solution](2.Solution/2.4.DataStore.md)
 - [x]  [Security](2.Solution/2.5.Security.md)
 - [ ]  [Deployment](2.Solution/2.7.Deployment.md)
-- [ ]  [Roadmap](2.Solution/2.8.Roadmap.md)
+- [x]  [Roadmap](2.Solution/2.8.Roadmap.md)
 
 [3️⃣ User Stories](3.UserStories/README.md)
 
