@@ -22,17 +22,17 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 [1️⃣ Problem Background](1.Problem/README.md)
 
 - [x]  [Business Goals, Drivers & Requirements](1.Problem/1.1.BusinessGoalsDriversAndRequirements.md)
-- [X]  [Stakeholder Concerns](1.Problem/1.2.StakeholderConcerns.md)
-- [X]  [Architecture Analysis](1.Problem/1.3.ArchitectureAnalysis.md)
-- [X]  [Actors, Actions & Significant Scenarios](1.Problem/1.4.ActorsActionsAndSignificantScenarios.md)
+- [x]  [Stakeholder Concerns](1.Problem/1.2.StakeholderConcerns.md)
+- [x]  [Architecture Analysis](1.Problem/1.3.ArchitectureAnalysis.md)
+- [x]  [Actors, Actions & Significant Scenarios](1.Problem/1.4.ActorsActionsAndSignificantScenarios.md)
 - [x]  [Constraints](1.Problem/1.5.Constraints.md)
 - [x]  [Assumptions](1.Problem/1.6.Assumptions.md)
 - [ ]  [RAID Log](1.Problem/1.7.RAID.md)
 
 [2️⃣ Solution Background](2.Solution/README.md)
 
-- [X]  [Architecture Principles](2.Solution/2.1.ArchitecturePrinciples.md)
-- [x]  [Overall Architecture Style Analysis](2.Solution/2.2.ArchitectureCharacteristics.md)
+- [x]  [Architecture Principles](2.Solution/2.1.ArchitecturePrinciples.md)
+- [x]  [Architecture Characteristics](2.Solution/2.2.ArchitectureCharacteristics.md)
 - [ ]  [Conceptual System Design](2.Solution/2.3.Conceptual.md)
 - [ ]  [Data Store Solution](2.Solution/2.4.DataStore.md)
 - [ ]  [Security](2.Solution/2.5.Security.md)
@@ -41,25 +41,25 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 
 [3️⃣ User Stories](3.UserStories/README.md)
 
-- [X]  [NPO staff](3.UserStories/NPO.md)
+- [x]  [NPO staff](3.UserStories/NPO.md)
 - [x]  [Candidate](3.UserStories/Candidate.md)
-- [ ]  [Community Leader](3.UserStories/CommunityLeader.md)
+- [x]  [Community Leader](3.UserStories/CommunityLeader.md)
 
 [4️⃣ Views & Perspectives](4.Views/README.md)
 
-- [X]  [Functional View](4.Views/4.1.FunctionalView/README.md)
-- [X]  [Event Storming](4.Views/4.2.EventStorming/README.md)
-- [X]  [Scenario Flow Diagrams](4.Views/4.3.Scenarios/README.md)
-- [X]  [C4 Models](4.Views/4.4.C4Models/README.md)
+- [x]  [Functional View](4.Views/4.1.FunctionalView/README.md)
+- [x]  [Event Storming](4.Views/4.2.EventStorming/README.md)
+- [x]  [Scenario Flow Diagrams](4.Views/4.3.Scenarios/README.md)
+- [x]  [C4 Models](4.Views/4.4.C4Models/README.md)
 
 [5️⃣ ADRs](5.ADRs/README.md)
 
 ## Resources <a href='#' id='resources'></a>
 
-- [X]  [O'Reilly Architecture Katas](https://learning.oreilly.com/featured/architectural-katas/)
-- [X]  [Diversity Cyber Council](https://www.diversitycybercouncil.com/)
-- [X]  [2022 Architecture Katas Requirements](assets/docs/diversitycybercouncilkatarequirements20221653334648065.pdf)
-- [X]  [Updated requirements](https://docs.google.com/document/d/1XjEpcGJ87xYg1eWN9eE0_tH7te5HcVAgPvoONLHY4qQ/edit?usp=sharing)
+- [x]  [O'Reilly Architecture Katas](https://learning.oreilly.com/featured/architectural-katas/)
+- [x]  [Diversity Cyber Council](https://www.diversitycybercouncil.com/)
+- [x]  [2022 Architecture Katas Requirements](assets/docs/diversitycybercouncilkatarequirements20221653334648065.pdf)
+- [x]  [Updated requirements](https://docs.google.com/document/d/1XjEpcGJ87xYg1eWN9eE0_tH7te5HcVAgPvoONLHY4qQ/edit?usp=sharing)
 
 ## References
 
