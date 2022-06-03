@@ -6,9 +6,8 @@
 
 <div align='center'>
   <img src="assets/images/arch8s.png" alt="Arch8s"/>
-  <h1>Team <strong>Arch8s</strong></h1>
-  <b>O'Reilly Architectural Kata: Spring 2022</b>
-  <div style="size: 36pt">Project: Spotlight</div>
+  <h1>Team <strong>Arch8s</strong>, Project <strong>Spotlight</strong></h1>
+  <b>O'Reilly Architectural Kata: Spring 2022</b>  
   <p>Illuminate Possibilities</p>
 </div>
 
