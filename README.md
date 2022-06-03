@@ -26,7 +26,7 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 - [X]  [Architecture Analysis](1.Problem/1.3.ArchitectureAnalysis.md)
 - [X]  [Actors, Actions & Significant Scenarios](1.Problem/1.4.ActorsActionsAndSignificantScenarios.md)
 - [x]  [Constraints](1.Problem/1.5.Constraints.md)
-- [ ]  [Assumptions](1.Problem/1.6.Assumptions.md)
+- [x]  [Assumptions](1.Problem/1.6.Assumptions.md)
 - [ ]  [RAID Log](1.Problem/1.7.RAID.md)
 
 [2️⃣ Solution Background](2.Solution/README.md)
@@ -42,8 +42,9 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 [3️⃣ User Stories](3.UserStories/README.md)
 
 - [X]  [NPO staff](3.UserStories/NPO.md)
-- [ ]  [Candidates](3.UserStories/Candidate.md)
-- [ ]  [Platform Admins](3.UserStories/PlatformAdmin.md)
+- [x]  [Candidate](3.UserStories/Candidate.md)
+- [ ]  [Platform Admin](3.UserStories/PlatformAdmin.md)
+- [ ]  [Community Leader](3.UserStories/CommunityLeader.md)
 
 [4️⃣ Views & Perspectives](4.Views/README.md)
 
