@@ -30,4 +30,16 @@ It is enough to keep the following in mind to understand these diagrams:
 
 ## Partnership Event Storming
 
-![Partnership-Event-Storming.jpg](../../assets/images/partnership-event-storming.jpg)
+![Partnership-Event-Storming.jpg](../../assets/images/event-storming-partnership.jpg)
+
+## Sponsorship Event Storming
+
+![Partnership-Event-Storming.jpg](../../assets/images/event-storming-sponsorship.png)
+
+## Candidate Interaction with Mentor Event Storming
+
+![Partnership-Event-Storming.jpg](../../assets/images/event-storming-interaction-with-mentor.png)
+
+## Matching NPO and Candidate Event Storming
+
+![Partnership-Event-Storming.jpg](../../assets/images/event-storming-matching-npo-candidate.png)
