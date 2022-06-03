@@ -46,6 +46,9 @@
 11. As a <b>Mentor</b>, I want <b>to join other communities as a follower</b>, so that <b>I will be able to receive information from other NPOs</b>
 12. As a <b>Mentor</b>, I want <b>to track candidates' progress via reporting service</b>, so that <b>I identify issue earlier</b>
 13. As a <b>Mentor</b>, I want <b>to post messages on community forum</b>, so that <b>I can improve communication with other NPOs and grow our relationship into future partnership</b>
+14. As a <b>Mentor</b>, I want <b>to create career roadmap</b>, so that <b>candidates could receive a nice visualization on requirements for the role</b>
+15. As a <b>Mentor</b>, I want <b>to assign career roadmap to candidate</b>, so that <b>candidate can check his next steps in his career</b>
+16. As a <b>Mentor</b>, I want <b>to adjust career roadmap to candidate</b>, so that <b>candidate can receive a personalized roadmap</b>
 
 
 <hr />
