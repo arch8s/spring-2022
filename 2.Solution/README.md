@@ -7,42 +7,42 @@
 
 [Architecture Principles](2.1.ArchitecturePrinciples.md)
 
-* General Architecture Principles
-* Automation
-* Data
-* Integration
-* Security
-* Extendibility & Maintainability
+*  [ ] General Architecture Principles
+*  [ ] Automation
+*  [ ] Data
+*  [ ] Integration
+*  [ ] Security
+*  [ ] Extendibility & Maintainability
 
 [Architecture Characteristics](2.2.ArchitectureCharacteristics.md)
 
-- Key Architectural Characteristics
-- Architecture Capabilities Comparison
-- Architecture Capabilities Analysis
-- Conclusion
+*  [ ] Key Architectural Characteristics
+*  [ ] Architecture Capabilities Comparison
+*  [ ] Architecture Capabilities Analysis
+*  [ ] Conclusion
 
 [Conceptual System Design](2.3.Conceptual.md)
 
-- C4 Context Diagram
-- C4 Container Diagram
-- C4 Component Diagrams
+*  [ ] C4 Context Diagram
+*  [ ] C4 Container Diagram
+*  [ ] C4 Component Diagrams
 
 [Data Store Solution](2.4.DataStore.md)
 
-- Considered Data Store Approaches
-- Next Steps
+*  [ ] Considered Data Store Approaches
+*  [ ] Next Steps
 
 [Security](2.5.Security.md)
 
-- Identity & Access Management
-- Data Law & Compliance
-- Network & Infrastructure
-- Data Protection
-- Threat Detection & Monitoring
+*  [ ] Identity & Access Management
+*  [ ] Data Law & Compliance
+*  [ ] Network & Infrastructure
+*  [ ] Data Protection
+*  [ ] Threat Detection & Monitoring
 
 [Deployment](2.6.Deployment.md)
 
-* Infrastructure
+*  [ ] Infrastructure
 
 [Roadmap](2.7.Roadmap.md)
 

@@ -11,6 +11,7 @@ As a < type of user >, I want < some goal > so that < some reason >.
 - [Platform Admins](Platform/Admin/CRUD.md)
 
 ## Personas
-![Candidate Joe](../assets/images/joe.png)
+
+<img src="../assets/images/joe.png"  alt="Candidate Joe" width="40%">
 
 [< Prev](/2.Solution/README.md)  |  [Next >]()

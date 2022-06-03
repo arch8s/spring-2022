@@ -3,10 +3,10 @@
 
 <hr/>
 
-- [Functional View](4.1.FunctionalView/README.md)
-- [Event Storming](4.2.EventStorming/README.md)
-- [Scenario Flow Diagrams](4.3.Scenarios/README.md)
-- [C4 Models](4.4.C4Models/README.md)
+*  [X] [Functional View](4.1.FunctionalView/README.md)
+*  [X] [Event Storming](4.2.EventStorming/README.md)
+*  [X] [Scenario Flow Diagrams](4.3.Scenarios/README.md)
+*  [X] [C4 Models](4.4.C4Models/README.md)
 
 <hr/>
 
