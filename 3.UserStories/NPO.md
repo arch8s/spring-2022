@@ -29,6 +29,8 @@
 21. As a <b>NPO admin</b>, I want <b>to block candidate and report fraud</b>, so that <b>platform can react correspondingly</b>
 22. As a <b>NPO admin</b>, I want <b>to suggest an idea</b>, so that <b>platform can improve further</b>
 23. As a <b>NPO admin</b>, I want <b>to request the NPO deletion</b>, so that <b>platform can delist obsolete services</b>
+24. As a <b>NPO admin</b>, I want <b>to track candidates' engagement via reporting service</b>, so that <b>I could help to improve communication between mentors and candidates</b>
+25. As a <b>NPO admin</b>, I want <b>to post messages on community forum</b>, so that <b>I can improve communication with other NPOs and grow our relationship into future partnership</b>
 
 ## Mentor
 1. As a <b>Mentor</b>, I want <b>to login</b>, so that <b>I can manage my candidates and my data</b>
@@ -42,6 +44,8 @@
 9. As a <b>Mentor</b>, I want <b>to change my profile</b>, so that <b>my information is kept up-to-date</b>
 10. As a <b>Mentor</b>, I want <b>to propose new service offering to NPO admin</b>, so that <b>our service exposure grows</b>
 11. As a <b>Mentor</b>, I want <b>to join other communities as a follower</b>, so that <b>I will be able to receive information from other NPOs</b>
+12. As a <b>Mentor</b>, I want <b>to track candidates' progress via reporting service</b>, so that <b>I identify issue earlier</b>
+13. As a <b>Mentor</b>, I want <b>to post messages on community forum</b>, so that <b>I can improve communication with other NPOs and grow our relationship into future partnership</b>
 
 
 <hr />
