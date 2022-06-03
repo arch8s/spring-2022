@@ -18,7 +18,7 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 
 [🧑‍🚀 Glossary](Glossary.md)
 
-[Problem Background](1.Problem/README.md)
+[1️⃣ Problem Background](1.Problem/README.md)
 
 - [ ]  [Business Goals, Drivers & Requirements](1.Problem/1.1.BusinessGoalsDriversAndRequirements.md)
 - [x]  [Stakeholder Concerns](1.Problem/1.2.StakeholderConcerns.md)
@@ -28,7 +28,7 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 - [ ]  [Assumptions](1.Problem/1.6.Assumptions.md)
 - [ ]  [RAID Log](1.Problem/1.7.RAID.md)
 
-[Solution Background](2.Solution/README.md)
+[2️⃣ Solution Background](2.Solution/README.md)
 
 - [X]  [Architecture Principles](2.Solution/2.1.ArchitecturePrinciples.md)
 - [ ]  [Overall Architecture Style Analysis](2.Solution/2.2.ArchitectureCharacteristics.md)
@@ -37,20 +37,22 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 - [ ]  [Security](2.Solution/2.5.Security.md)
 - [ ]  [Deployment](2.Solution/2.6.Deployment.md)
 - [ ]  [Roadmap](2.Solution/2.7.Roadmap.md)
-- [X]  [ADRs](5.ADRs/README.md)
 
-[User Stories](3.UserStories/README.md)
+
+[3️⃣ User Stories](3.UserStories/README.md)
 
 - [ ]  [NPO staff](3.UserStories/NPO/Staff/CRUD.md)
 - [ ]  [Candidates](3.UserStories/Candidate/CRUD.md)
 - [ ]  [Platform Admins](3.UserStories/Platform/Admin/CRUD.md)
 
-[Views & Perspectives](4.Views/README.md)
+[4️⃣ Views & Perspectives](4.Views/README.md)
 
 - [X]  [Functional View](4.Views/4.1.FunctionalView/README.md)
 - [X]  [Event Storming](4.Views/4.2.EventStorming/README.md)
 - [X]  [Scenario Flow Diagrams](4.Views/4.3.Scenarios/README.md)
 - [X]  [C4 Models](4.Views/4.4.C4Models/README.md)
+
+[5️⃣ ADRs](5.ADRs/README.md)
 
 ## Resources <a href='#' id='resources'></a>
 
