@@ -26,6 +26,7 @@ It is enough to keep the following in mind to understand these diagrams:
 
 ## The Key
 
+![Partnership-Event-Storming.jpg](../../assets/images/event-storming-key.png)
 
 
 ## Partnership Event Storming
