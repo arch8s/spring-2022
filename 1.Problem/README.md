@@ -7,10 +7,10 @@
 
 [Business Goals, Drivers and Requirements](1.1.BusinessGoalsDriversAndRequirements.md)
 
-* [ ]  [Background](1.1.BusinessGoalsDriversAndRequirements.md#background)
-* [ ]  [Business Goals](1.1.BusinessGoalsDriversAndRequirements.md#business-goals)
-* [ ]  [Business Drivers](1.1.BusinessGoalsDriversAndRequirements.md#business-drivers)
-* [ ]  [Requirements](1.1.BusinessGoalsDriversAndRequirements.md#requirements-and-engagement-model)
+* [x]  [Background](1.1.BusinessGoalsDriversAndRequirements.md#background)
+* [x]  [Business Goals](1.1.BusinessGoalsDriversAndRequirements.md#business-goals)
+* [x]  [Business Drivers](1.1.BusinessGoalsDriversAndRequirements.md#business-drivers)
+* [x]  [Requirements](1.1.BusinessGoalsDriversAndRequirements.md#requirements-and-engagement-model)
 
 [Stakeholder Concerns](1.2.StakeholderConcerns.md)
 
