@@ -7,7 +7,7 @@
 As a < type of user >, I want < some goal > so that < some reason >.
 
 Below we presented our user stories for:
-- [NPO staff](NPO.md)
+- [NPO staff](NPOAdmin.md)
 - [Candidate](Candidate.md)
 - [Platform Admin](PlatformAdmin.md)
 - [Community Leader](CommunityLeader.md) 

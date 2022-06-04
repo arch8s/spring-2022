@@ -38,7 +38,7 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 
 [3️⃣ User Stories](3.UserStories/README.md)
 
-- [x]  [NPO staff](3.UserStories/NPO.md)
+- [x]  [NPO staff](3.UserStories/NPOAdmin.md)
 - [x]  [Candidate](3.UserStories/Candidate.md)
 - [x]  [Community Leader](3.UserStories/CommunityLeader.md)
 
