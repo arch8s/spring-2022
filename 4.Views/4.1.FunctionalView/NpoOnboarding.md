@@ -1,7 +1,9 @@
-[> Home](../../README.md) [> Views](../README.md)  [> Functional View](README.md)  
+[> Home](../../README.md) [> Views](../README.md)  [> Functional View](README.md)  >  NPO onboarding
+
 [< Prev](../README.md)  |  [Next >](../4.2.EventStorming/README.md)
 
 ---
+
 # NPO onboarding
 
 <img src="../../assets/images/design-screen-npo-onboarding-1.png" alt="Design screen NPO onboarding 1">
@@ -14,4 +16,5 @@
 
 
 ---
+
 [< Prev](../README.md)  |  [Next >](../4.2.EventStorming/README.md)

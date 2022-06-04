@@ -19,3 +19,7 @@ ADRs
 - [012 Use 12-factor application principles](ADR-012-12-factor-application-principles.md)
 - [013 Use Headless CMS](ADR-013-strapi-headless-cms.md)
 - [014 Use Donation Platforms](ADR-014-donation-platforms.md)
+
+---
+
+[< Prev](../2.Solution/2.5.Roadmap.md)  |  [Next >](ADR-001-use-adr.md)

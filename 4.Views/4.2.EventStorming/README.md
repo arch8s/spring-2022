@@ -1,5 +1,8 @@
-[> Home](../../README.md) [> Views](../README.md)  [> Event Storming](README.md)
+[> Home](../../README.md) [> Views](../README.md)  > Event Storming
+
 [< Prev](../4.1.FunctionalView/README.md)  |  [Next >](../4.3.Scenarios/README.md)
+
+---
 
 # Event Storming
 
@@ -44,3 +47,8 @@ It is enough to keep the following in mind to understand these diagrams:
 ## Matching NPO and Candidate Event Storming
 
 ![Partnership-Event-Storming.jpg](../../assets/images/event-storming-matching-npo-candidate.png)
+
+---
+
+[< Prev](../4.1.FunctionalView/README.md)  |  [Next >](../4.3.Scenarios/README.md)
+

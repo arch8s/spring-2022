@@ -1,18 +1,19 @@
-[> Home](../../README.md) [> Views](../README.md)  [> Functional View](README.md)  
-[< Prev](../README.md)  |  [Next >](NpoOnboarding.md) [Next >](CandidateSignup.md)
+[> Home](../../README.md) [> Views](../README.md)  > Functional View
+
+[< Prev](../README.md)  |  [Next >](NpoOnboarding.md)
 
 ---
 
 # Functional Views
 
-*  [X] [NPO onboarding](NpoOnboarding.md)
+*  [x] [NPO onboarding](NpoOnboarding.md)
 
-*  [X] [Candidate Signup](CandidateSignup.md)
+*  [x] [Candidate Signup](CandidateSignup.md)
 
-*  [X] [Homescreen Networking](HomescreenNetworking.md)
+*  [x] [Home Screen Networking](HomeNetworking.md)
 
-*  [X] [Candidate Mobile](CandidateMobile.md)
+*  [x] [Candidate Mobile](CandidateMobile.md)
 
 ---
 
-[< Prev](../README.md)  |  [Next >](../4.2.EventStorming/README.md)
+[< Prev](../README.md)  |  [Next >](NpoOnboarding.md)
