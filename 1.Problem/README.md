@@ -1,5 +1,6 @@
 [> Home](../README.md)
-[< Prev](../Glossary.md)  |  [Next >](1.1.BusinessGoalsDriversAndRequirements.md)
+
+[< Prev](../README.md)  |  [Next >](1.1.BusinessGoalsDriversAndRequirements.md)
 
 ---
 
@@ -16,15 +17,15 @@
 
 [Architecture Analysis](1.3.ArchitectureAnalysis.md)
 
-* [ ]  [Key architecture characteristics](1.3.ArchitectureAnalysis.md#key-architecture-characteristics)
-* [ ]  [Architectural Quanta](1.3.ArchitectureAnalysis.md#architectural-quanta)
-* [ ]  [System Granularity](1.3.ArchitectureAnalysis.md#system-granularity)
+* [x]  [Key architecture characteristics](1.3.ArchitectureAnalysis.md#key-architecture-characteristics)
+* [x]  [Architectural Quanta](1.3.ArchitectureAnalysis.md#architectural-quanta)
+* [x]  [System Granularity](1.3.ArchitectureAnalysis.md#system-granularity)
 
 [Actors, Actions &amp; Significant Scenarios](1.4.ActorsActionsAndSignificantScenarios.md)
 
-* [ ]  [List of actors](1.4.ActorsActionsAndSignificantScenarios.md#actors-actions--significant-scenarios)
-* [ ]  [Actors mapping to actions](1.4.ActorsActionsAndSignificantScenarios.md#actors--actions)
-* [ ]  [Significant scenario flow diagrams](1.4.ActorsActionsAndSignificantScenarios.md#architecturally-significant-scenarios)
+* [x]  [List of actors](1.4.ActorsActionsAndSignificantScenarios.md#actors-actions--significant-scenarios)
+* [x]  [Actors mapping to actions](1.4.ActorsActionsAndSignificantScenarios.md#actors--actions)
+* [x]  [Significant scenario flow diagrams](1.4.ActorsActionsAndSignificantScenarios.md#architecturally-significant-scenarios)
 
 [Constraints](1.5.Constraints.md)
 
@@ -33,7 +34,10 @@
 
 [RAID Log](1.6.RAID.md)
 
-* [ ]  [RAID Log](1.6.RAID.md#raid-log)
+* [x]  [Risks](1.6.RAID.md#risks)
+* [x]  [Assumptions](1.6.RAID.md#assumptions)
+* [x]  [Issues](1.6.RAID.md#issues)
+* [x]  [Dependencies](1.6.RAID.md#dependencies)
 
 [Market Reserch](1.7.MarketReserch.md)
 * [X]  [Industry Analysis](1.7.MarketReserch.md#industry-analysis)

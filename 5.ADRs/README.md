@@ -4,7 +4,8 @@
 
 ---
 
-ADRs
+# ADRs
+
 - [001 We are using ADRs to keep project architecture decisions documented](ADR-001-use-adr.md)
 - [002 Use SPA + API to enable mobile app for platform](ADR-002-spa-api-mobile.md)
 - [003 Use versioning for the REST API](ADR-003-rest-api-versioning.md)
