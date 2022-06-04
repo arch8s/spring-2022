@@ -39,7 +39,7 @@ We voted for AWS as main provider for our project.
 **Bonus Features:**
 
 - 
-Amazon EC2 - cloud compute
+Amazon ECS - Elastic Container Service
 Amazon S3 - files storage  
 AWS Lambda - serverless, event-driven compute service
 Amazon Aurora - relational database management system with full PostgreSQL compatibility

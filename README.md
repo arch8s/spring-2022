@@ -26,8 +26,7 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 - [x]  [Architecture Analysis](1.Problem/1.3.ArchitectureAnalysis.md)
 - [x]  [Actors, Actions & Significant Scenarios](1.Problem/1.4.ActorsActionsAndSignificantScenarios.md)
 - [x]  [Constraints](1.Problem/1.5.Constraints.md)
-- [x]  [Assumptions](1.Problem/1.6.Assumptions.md)
-- [ ]  [RAID Log](1.Problem/1.7.RAID.md)
+- [x]  [RAID Log](1.Problem/1.6.RAID.md)
 
 [2️⃣ Solution Background](2.Solution/README.md)
 

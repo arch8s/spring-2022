@@ -31,16 +31,12 @@
 * [X]  [List of known constraints](1.5.Constraints.md#constraints)
 * [X]  [Issues](1.5.Constraints.md#issues)
 
-[Assumptions](1.6.Assumptions.md)
+[RAID Log](1.6.RAID.md)
 
-* [X]  [List of assumptions made](1.6.Assumptions.md#assumptions)
+* [ ]  [RAID Log](1.6.RAID.md#raid-log)
 
-[RAID Log](1.7.RAID.md)
-
-* [ ]  [RAID Log](1.7.RAID.md#raid-log)
-
-[Market Reserch](1.8.MarketReserch.md)
-* [X]  [Industry Analysis](1.8.MarketReserch.md#industry-analysis)
+[Market Reserch](1.7.MarketReserch.md)
+* [X]  [Industry Analysis](1.7.MarketReserch.md#industry-analysis)
 
 ---
 

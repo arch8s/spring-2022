@@ -17,3 +17,5 @@ ADRs
 - [010 Use OAuth for authorization](ADR-010-authorization-OAuth.md)
 - [011 Use 4-eyes review principle](ADR-011-4-eyes-review.md)
 - [012 Use 12-factor application principles](ADR-012-12-factor-application-principles.md)
+- [013 Use Headless CMS](ADR-013-headless-cms.md)
+- [014 Use Donation Platforms](ADR-014-donation-platforms.md)
