@@ -1,7 +1,8 @@
-[> Home](README.md)  [> User Stories](README.md)
-[< Prev]()  |  [Next >]()
+[> Home](README.md)  [> User Stories](README.md) > Candidate User stories
 
-<hr />
+[< Prev](Mentor.md)  |  [Next >](CommunityLeader.md)
+
+---
 
 # Candidate User stories
 
@@ -23,8 +24,6 @@
 14. As a <b>Candidate</b>, I want <b>to read the reviews on NPOs from other candidates</b>, so that <b>I can decide if I want to work with this NPO</b>
 15. As a <b>Candidate</b>, I want <b>to propose idea to mentors</b>, so that <b>mentor could improve something in his activities</b>
 
-<hr />
+---
 
-
-[> Home](README.md)  [> User Stories](README.md)
-[< Prev]()  |  [Next >]()
+[< Prev](Mentor.md)  |  [Next >](CommunityLeader.md)

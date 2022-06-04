@@ -1,7 +1,10 @@
-[> Home](../README.md)  [> User Stories](README.md)
-[< Prev]()  |  [Next >]()
+[> Home](../README.md)  [> User Stories](README.md) > Mentor User Stories
 
-<hr />
+[< Prev](NPOAdmin.md)  |  [Next >](Candidate.md)
+
+---
+
+# Mentor User Stories
 
 ## Mentor
 1. As a <b>Mentor</b>, I want <b>to login</b>, so that <b>I can manage my candidates and my data</b>
@@ -21,7 +24,6 @@
 15. As a <b>Mentor</b>, I want <b>to assign career roadmap to candidate</b>, so that <b>candidate can check his next steps in his career</b>
 16. As a <b>Mentor</b>, I want <b>to adjust career roadmap to candidate</b>, so that <b>candidate can receive a personalized roadmap</b>
 
-<hr />
+---
 
-[> Home](../README.md)
-[< Prev]()  |  [Next >]()
+[< Prev](NPOAdmin.md)  |  [Next >](Candidate.md)

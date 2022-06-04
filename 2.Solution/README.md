@@ -7,19 +7,19 @@
 
 [Architecture Principles](2.1.ArchitecturePrinciples.md)
 
-*  [ ] General Architecture Principles
-*  [ ] Automation
-*  [ ] Data
-*  [ ] Integration
-*  [ ] Security
-*  [ ] Extendibility & Maintainability
+*  [x] General Architecture Principles
+*  [x] Automation
+*  [x] Data
+*  [x] Integration
+*  [x] Security
+*  [x] Extensibility & Maintainability
 
 [Architecture Characteristics](2.2.ArchitectureCharacteristics.md)
 
-*  [ ] Key Architectural Characteristics
-*  [ ] Architecture Capabilities Comparison
-*  [ ] Architecture Capabilities Analysis
-*  [ ] Conclusion
+*  [x] Key Architectural Characteristics
+*  [x] Architecture Capabilities Comparison
+*  [x] Architecture Capabilities Analysis
+*  [x] Conclusion
 
 [Security](2.3.Security.md)
 

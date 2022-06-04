@@ -1,4 +1,8 @@
-[> Home](../README.md)  [> User Stories](README.md)
+[> Home](../README.md)  > User Stories
+
+[< Prev](../2.Solution/README.md)  |  [Next >](../4.Views/README.md)
+
+---
 
 # User Stories
 
@@ -7,13 +11,16 @@
 As a < type of user >, I want < some goal > so that < some reason >.
 
 Below we presented our user stories for:
-- [NPO staff](NPOAdmin.md)
+- [NPO Admin](NPOAdmin.md)
+- [Mentor](Mentor.md)
 - [Candidate](Candidate.md)
-- [Platform Admin](PlatformAdmin.md)
 - [Community Leader](CommunityLeader.md) 
+- [Platform Admin](PlatformAdmin.md)
 
 ## Personas
 
 <img src="../assets/images/joe.png"  alt="Candidate Joe" width="40%">
 
-[< Prev](/2.Solution/README.md)  |  [Next >]()
+---
+
+[< Prev](../2.Solution/README.md)  |  [Next >](../4.Views/README.md)

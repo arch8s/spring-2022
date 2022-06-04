@@ -66,9 +66,6 @@ A special thanks goes to these 🏋🏻 people:
 
 - Ivan Georgiev
 - Andrey Orsoev
-
-🏃 Decided to focus on other things:
-
 - Kavya Shiva
 - Moran Lefler
 

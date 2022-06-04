@@ -1,11 +1,13 @@
-[> Home](README.md)  [> User Stories](README.md)
-[< Prev]()  |  [Next >]()
+[> Home](README.md)  [> User Stories](README.md) > Community Leader User stories
 
-<hr />
+[< Prev](Candidate.md)  |  [Next >](README.md)
+
+---
 
 # Community Leader User stories
 
 ## Community Leader
+
 1. As a <b>Community Leader</b>, I want <b>to login</b>, so that <b>I can manage my applications, roadmaps and my data</b>
 2. As a <b>Community Leader</b>, I want <b>to logout</b>, so that <b>I can ensure enforced security</b>
 3. As a <b>Community Leader</b>, I want <b>to change my user profile</b>, so that <b>I can control information I share with others</b>
@@ -15,7 +17,6 @@
 7. As a <b>Community Leader</b>, I want <b>to add new service offering for NPO in case they asked for it</b>, so that <b>platform brings more value to candidates</b>
 8. As a <b>Community Leader</b>, I want <b>to manage joint libraries</b>, so that <b>platform is free from DRM-related risks</b>
 
-<hr />
+---
 
-[> Home](README.md)  [> User Stories](README.md)
-[< Prev]()  |  [Next >]()
+[< Prev](Candidate.md)  |  [Next >](README.md)
