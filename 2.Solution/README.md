@@ -21,30 +21,18 @@
 *  [ ] Architecture Capabilities Analysis
 *  [ ] Conclusion
 
-[Conceptual System Design](2.3.Conceptual.md)
+[Security](2.3.Security.md)
 
-*  [ ] C4 Context Diagram
-*  [ ] C4 Container Diagram
-*  [ ] C4 Component Diagrams
+*  [x] Identity & Access Management
+*  [x] Data Law & Compliance
+*  [x] Network & Infrastructure
+*  [x] Data Protection
+*  [x] Threat Detection & Monitoring
 
-[Data Store Solution](2.4.DataStore.md)
+[Deployment](2.4.Deployment.md)
 
-*  [ ] Considered Data Store Approaches
-*  [ ] Next Steps
 
-[Security](2.5.Security.md)
-
-*  [ ] Identity & Access Management
-*  [ ] Data Law & Compliance
-*  [ ] Network & Infrastructure
-*  [ ] Data Protection
-*  [ ] Threat Detection & Monitoring
-
-[Deployment](2.7.Deployment.md)
-
-*  [ ] Infrastructure
-
-[Roadmap](2.8.Roadmap.md)
+[Roadmap](2.5.Roadmap.md)
 
 [ADRs](../5.ADRs/README.md)
 
