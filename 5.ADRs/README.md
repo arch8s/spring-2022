@@ -1,6 +1,6 @@
 [> Home](../README.md) > ADRs
 
-[< Prev](../2.Solution/2.5.Roadmap.md)  |  [Next >](ADR-001-use-adr.md)
+[< Prev](../2.Solution/README.md)  |  [Next >](../README.md)
 
 ---
 
@@ -24,4 +24,4 @@
 
 ---
 
-[< Prev](../2.Solution/2.5.Roadmap.md)  |  [Next >](ADR-001-use-adr.md)
+[< Prev](../2.Solution/README.md)  |  [Next >](../README.md)

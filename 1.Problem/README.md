@@ -39,9 +39,9 @@
 * [x]  [Issues](1.6.RAID.md#issues)
 * [x]  [Dependencies](1.6.RAID.md#dependencies)
 
-[Market Reserch](1.7.MarketReserch.md)
-* [X]  [Industry Analysis](1.7.MarketReserch.md#industry-analysis)
+[Market Research](1.7.MarketResearch.md)
+* [X]  [Industry Analysis](1.7.MarketResearch.md#industry-analysis)
 
 ---
 
-[< Prev](../Glossary.md)  |  [Next >](1.1.BusinessGoalsDriversAndRequirements.md)
+[< Prev](../README.md)  |  [Next >](1.1.BusinessGoalsDriversAndRequirements.md)

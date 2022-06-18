@@ -32,9 +32,11 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 
 - [x]  [Architecture Principles](2.Solution/2.1.ArchitecturePrinciples.md)
 - [x]  [Architecture Characteristics](2.Solution/2.2.ArchitectureCharacteristics.md)
-- [x]  [Security](2.Solution/2.3.Security.md)
-- [x]  [Deployment](2.Solution/2.4.Deployment.md)
-- [x]  [Roadmap](2.Solution/2.5.Roadmap.md)
+- [x]  [Modules](2.Solution/2.3.Modules.md)
+- [x]  [Security](2.Solution/2.4.Security.md)
+- [x]  [Deployment](2.Solution/2.5.Deployment.md)
+- [x]  [Roadmap](2.Solution/2.6.Roadmap.md)
+- [x]  [Reporting](2.Solution/2.7.Reporting.md)
 
 [3️⃣ User Stories](3.UserStories/README.md)
 
