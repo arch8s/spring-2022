@@ -1,7 +1,7 @@
 
 [> Home](../README.md) [> ADRs](README.md) > **ADR-015** Pick AWS region wisely
 
-[< Prev](ADR-014-donation-platforms.md)  |  [Next >](README.md)
+[< Prev](ADR-014-donation-platforms.md)  |  [Next >](ADR-016-browsers-support.md)
 
 ---
 
@@ -45,4 +45,4 @@ We decided to pick Oregon as optimal for the US territories in the context of Sp
 
 ---
 
-[< Prev](ADR-014-donation-platforms.md)  |  [Next >](README.md)
+[< Prev](ADR-014-donation-platforms.md)  |  [Next >](ADR-016-browsers-support.md)

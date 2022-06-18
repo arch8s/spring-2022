@@ -29,14 +29,14 @@ We have decided to use following funding model platforms:
 - [IssueHunt](https://)
 - [Otechie](https://)
 - [LFX Crowdfunding](https://)
--
+
 
 ## Consequences
 
 **Positive:**
 
 - Fund the work of mentor and volunteers
-
+    A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Negative:**
 
 **Risks:**
