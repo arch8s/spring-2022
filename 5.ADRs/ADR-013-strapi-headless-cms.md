@@ -1,6 +1,6 @@
 [> Home](../README.md) [> ADRs](README.md) > **ADR-013** Use Strapi Headless CMS
 
-[< Prev](ADR-011-4-eyes-review.md)  |  [Next >](README.md)
+[< Prev](ADR-012-12-factor-application-principles.md)  |  [Next >](README.md)
 
 ---
 
@@ -47,4 +47,4 @@ We have decided to use Headless CMS strapi
 
 ---
 
-[< Prev](ADR-011-4-eyes-review.md)  |  [Next >](README.md)
+[< Prev](ADR-012-12-factor-application-principles.md)  |  [Next >](README.md)
