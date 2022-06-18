@@ -5,7 +5,7 @@
 
 ---
 
-# 014 Pick AWS region wisely 
+# 015 Pick AWS region wisely 
 
 Date: 2022-06-18
 
