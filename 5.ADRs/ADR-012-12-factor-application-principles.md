@@ -1,6 +1,6 @@
 [> Home](../README.md) [> ADRs](README.md) > **ADR-012** Use 12-factor application principles
 
-[< Prev](ADR-011-4-eyes-review.md)  |  [Next >](README.md)
+[< Prev](ADR-011-4-eyes-review.md)  |  [Next >](ADR-013-strapi-headless-cms.md)
 
 ---
 
@@ -101,4 +101,4 @@ Run admin/management tasks as one-off processes
 
 ---
 
-[< Prev](ADR-011-4-eyes-review.md)  |  [Next >](README.md)
+[< Prev](ADR-011-4-eyes-review.md)  |  [Next >](ADR-013-strapi-headless-cms.md)

@@ -1,6 +1,6 @@
 [> Home](../README.md) [> ADRs](README.md) > **ADR-014** Use Donation Platforms
 
-[< Prev](ADR-011-4-eyes-review.md)  |  [Next >](README.md)
+[< Prev](ADR-013-strapi-headless-cms.md)  |  [Next >](ADR-015-pick-aws-region-wisely.md)
 
 ---
 
@@ -45,4 +45,4 @@ We have decided to use following funding model platforms:
 
 ---
 
-[< Prev](ADR-011-4-eyes-review.md)  |  [Next >](README.md)
+[< Prev](ADR-013-strapi-headless-cms.md)  |  [Next >](ADR-015-pick-aws-region-wisely.md)

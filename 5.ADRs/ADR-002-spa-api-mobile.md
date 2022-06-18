@@ -35,7 +35,7 @@ We decided to switch from front-end monolith, where backend renders the UI to th
 - The FE development could have additional complexity in case we have obsolete versions.
 
 **Bonus Features:**
--
+- We can easily bring public API to the companies who are interested in it
 
 ---
 
