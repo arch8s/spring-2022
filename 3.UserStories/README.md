@@ -15,7 +15,6 @@ Below we presented our user stories for:
 - [Mentor](Mentor.md)
 - [Candidate](Candidate.md)
 - [Community Leader](CommunityLeader.md) 
-- [Platform Admin](PlatformAdmin.md)
 
 ## Personas
 
