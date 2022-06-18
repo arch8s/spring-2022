@@ -17,7 +17,7 @@ Confirmed
 
 We have US geo as one of the constraints, so we want to choose one of the AWS regions wisely to keep operation costs low.
 
-We have the [unemployment rate stats](https://www.bls.gov/news.release/laus.nr0.htm) and [significant minorities stats](https://vividmaps.com/significant-racial-minorities-u-s-county/), which brought us an initial idea to choose the east coast regions. The [additional data](https://costofcollege.wordpress.com/2013/09/23/two-maps-showing-jobs-and-population-trends/) shows us that the east has considerable potential for the local minorities who are the core of audience for the Spotlight. 
+We have the [unemployment rate stats](https://www.bls.gov/news.release/laus.nr0.htm) and [significant minorities stats](https://vividmaps.com/significant-racial-minorities-u-s-county/), which brought us an initial idea to choose the east coast regions. The [additional data](https://costofcollege.wordpress.com/2013/09/23/two-maps-showing-jobs-and-population-trends/) shows us that the east has considerable potential for the locals who are the core of audience for the Spotlight. 
 
 We [took a look](https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely/) on AWS region cost difference, and the most suitable for the PoC phase can be the North Virginia region. 
 
