@@ -1,7 +1,7 @@
 
 [> Home](../README.md) [> ADRs](README.md) > **ADR-015** Pick AWS region wisely
 
-[< Prev](ADR-014-.md)  |  [Next >](README.md)
+[< Prev](ADR-014-donation-platforms.md)  |  [Next >](README.md)
 
 ---
 
@@ -45,4 +45,4 @@ We decided to pick Oregon as a optimal for the US territories in context of Spot
 
 ---
 
-[< Prev](ADR-011-4-eyes-review.md)  |  [Next >](README.md)
+[< Prev](ADR-014-donation-platforms.md)  |  [Next >](README.md)
