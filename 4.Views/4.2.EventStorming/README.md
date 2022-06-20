@@ -20,12 +20,12 @@ We've gone through each of the 10 initial requirements to come up with the busin
 
 Standard coloured boxes are used to draw these diagrams, as shown in the below key.
 
-It is enough to keep the following in mind to understand these diagrams:
+It is enough to keep the following in mind understanding these diagrams:
 
 1. The orange boxes represent Domain Events.
 2. The blue boxes represent Commands (which result in a Domain Event).
 3. The yellow boxes represent Users.
-4. The coloured boxes are placed on a time line.
+4. The coloured boxes are placed on a timeline.
 
 ## The Key
 
