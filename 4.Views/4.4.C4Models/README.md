@@ -32,7 +32,8 @@ https://c4model.com/
 
 
 ___
-> We have used plantuml to build our C4 diagrams, which can be found in [assets](../../assets/plantuml)
+> We have used plantuml to build our C4 diagrams, which can be found in [assets](../../assets/plantuml),
+> using following [templates](https://github.com/plantuml-stdlib/C4-PlantUML).
 ---
 
 [< Prev](../4.3.Scenarios/README.md)  |  [Next >](../README.md)
