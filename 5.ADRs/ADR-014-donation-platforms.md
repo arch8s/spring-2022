@@ -36,7 +36,7 @@ We have decided to use following funding model platforms:
 **Positive:**
 
 - Fund the work of mentor and volunteers
-    A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 **Negative:**
 
 **Risks:**
