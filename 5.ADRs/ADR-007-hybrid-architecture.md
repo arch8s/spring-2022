@@ -30,10 +30,13 @@ Different architecture styles we have considered:
 > Monoliths is a system in which all the code is deployed as a single process
 
 **Positive:** 
-- Single repository
-- Single CI/CD pipeline 
-- Single set of infrastructure
-- Easy to handle DB transactions
+- Cost
+- Simplicity:
+    - Single repository
+    - Single CI/CD pipeline
+    - Single set of infrastructure
+    - Easy to handle DB transactions
+    - Easier to change
 
 **Negative:**
 - Big bal of mud
@@ -43,21 +46,44 @@ Different architecture styles we have considered:
 - Need to understand the entire codebase
 
 ### Modular Monolith
-> As a subset of the single process monolith, the modular monolith is a variation: the single process consists of separate modules, each of which can be worked on independently, but which still need to be combined for deployment
+> As a subset of the single process monolith, the modular monolith is a variation: the single process consists of separate modules, each of which can be worked on independently, but which still need to be combined for deployment.
+> In a modular monolith, the architect partitions the architecture around domains or workflows rather than technical capabilities.
 
 **Positive:**
-- Single repository
-- Single CI/CD pipeline
-- Single set of infrastructure
-- Easy to handle DB transactions
-- Easier to change
-- Cheaper to maintain
+- Cost
+- Simplicity:
+  - Single repository
+  - Single CI/CD pipeline
+  - Single set of infrastructure
+  - Easy to handle DB transactions
+  - Easier to change
+
 
 **Negative:**
 - database lacks decomposition - we've mitigated this risk by decomposed database into separate schemas, logically separation 
 - can't scale indefensibly due to db connection limitations
 
 [Monolith to microservices, Sam Newman](https://learning.oreilly.com/library/view/monolith-to-microservices/9781492047834/ch01.html#:-:text=And%20the%20modular%20monolith)
+
+
+### Microkernel
+> The microkernel architecture style (also referred to as the plug-in architecture). This architecture style is a natural fit for product-based applications (packaged and made available for download and installation as a single, monolithic deployment, typically installed on the customer’s site as a third-party product).
+
+**Positive:**
+- Cost
+- Simplicity:
+    - Single repository
+    - Single CI/CD pipeline
+    - Single set of infrastructure
+    - Easy to handle DB transactions
+    - Easier to change
+
+**Negative:**
+- Scalability
+- Fault tolerance
+- Elasticity
+
+[Fundamentals of Software Architecture](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/ch12.html)
 
 ### Microservices
 > Microservices are independently deployable services modeled around a business domain. They communicate with each other via networks
@@ -78,7 +104,7 @@ Different architecture styles we have considered:
 - Expensive to change
 
 [Building microservices, Sam Newman](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018/ch01.html#idm45112648818104)
-
+[Fundamentals of Software Architecture](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/ch17.html#idm45838970422432)
 
 ## Decision
 
