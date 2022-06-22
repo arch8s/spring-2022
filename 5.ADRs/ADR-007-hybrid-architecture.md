@@ -18,9 +18,8 @@ Confirmed
 In our [Architecture Characteristics Analyses](../2.Solution/2.2.ArchitectureCharacteristics.md) we have identified following architectural characteristics:
 * Simplicity *
 * Cost *
-* Domain partitioning *
-* Scalability
-
+* Domain partitioning 
+* Scalability *
 
 
 Ship the product to the market first.
@@ -52,10 +51,11 @@ Different architecture styles we have considered:
 - Single set of infrastructure
 - Easy to handle DB transactions
 - Easier to change
+- Cheaper to maintain
 
 **Negative:**
-- database lacks decomposition - we've mitigated this risk by decomposed database into separate schemas 
-- can't scale indefensibly due to db limitations
+- database lacks decomposition - we've mitigated this risk by decomposed database into separate schemas, logically separation 
+- can't scale indefensibly due to db connection limitations
 
 [Monolith to microservices, Sam Newman](https://learning.oreilly.com/library/view/monolith-to-microservices/9781492047834/ch01.html#:-:text=And%20the%20modular%20monolith)
 
@@ -83,9 +83,10 @@ Different architecture styles we have considered:
 ## Decision
 
 We decided to take monolith-first approach, and add some bits and nuts of serverless for resource intensive tasks.
-To fully support all the requirements, we start from modular monolith with service-based architecture and database .
+To fully support all the requirements, we start from modular monolith with service-based architecture and decomposed database.
 
-We will scale some services with serverless approach, that's how we bring hybrid approach to the application. For example, one of the most CPU-intensive and memory-consuming task will be PDF generation, so use of serverless stack here could help us a bit.
+We will scale some services with serverless approach, that's how we bring hybrid approach to the application. 
+For example, one of the most CPU-intensive and memory-consuming task will be PDF generation, so use of serverless stack here could help us a bit.
 
 ## Consequences
 
@@ -97,12 +98,10 @@ We will scale some services with serverless approach, that's how we bring hybrid
 
 **Negative:**
 
-- Serverless would limit us in technical decisions, like
-- Databases used by serverless
+- Serverless would limit us in technical decisions, like databases used by serverless
 - Cold-boot latency
 - JSON for communication
-- Technology stack will be from variety of programming languages, supported by cloud provider. 
-
+- Technology stack will be from variety of programming languages, supported by cloud provider.
 - We need to define "the margin call" costs for using serverless
 
 **Risks:**
