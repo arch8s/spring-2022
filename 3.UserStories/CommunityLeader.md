@@ -8,7 +8,7 @@
 
 ## Community Leader
 
-1. As a <b>Community Leader</b>, I want <b>to login</b>, so that <b>I can manage my applications, roadmaps and my data</b>
+1. As a <b>Community Leader</b>, I want <b>to login</b>, so that <b>I can manage NPO applications, my data</b>
 2. As a <b>Community Leader</b>, I want <b>to logout</b>, so that <b>I can ensure enforced security</b>
 3. As a <b>Community Leader</b>, I want <b>to change my user profile</b>, so that <b>I can control information I share with others</b>
 4. As a <b>Community Leader</b>, I want <b>to arrange a meeting with NPO</b>, so that <b>I understand their needs and challenges</b>

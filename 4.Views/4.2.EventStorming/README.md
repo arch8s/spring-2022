@@ -1,6 +1,6 @@
 [> Home](../../README.md) [> Views](../README.md)  > Event Storming
 
-[< Prev](../4.1.FunctionalView/README.md)  |  [Next >](../4.3.Scenarios/README.md)
+[< Prev](../4.5.Mockups/README.md)  |  [Next >](../4.3.Scenarios/README.md)
 
 ---
 
@@ -50,5 +50,5 @@ It is enough to keep the following in mind understanding these diagrams:
 
 ---
 
-[< Prev](../4.1.FunctionalView/README.md)  |  [Next >](../4.3.Scenarios/README.md)
+[< Prev](../4.5.Mockups/README.md)  |  [Next >](../4.3.Scenarios/README.md)
 
