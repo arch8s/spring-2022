@@ -23,7 +23,7 @@ Rel(mentor, roadmaps, "Adjust career path to the roadmap")
 Rel(mentor, candidates, "Assigns roadmap to candidate")
 
 Rel(candidates, notifications, "Sends data about assigned roadmap")
-Rel(candidates, candidate_assessments, "Adds new quality gateway")
+Rel(candidates, candidate_assessments, "Adds new quality gate")
 
 Rel(notifications, ses, "Sends push notification to the candidate")
 
