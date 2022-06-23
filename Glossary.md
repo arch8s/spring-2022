@@ -111,7 +111,11 @@ is a software component or part of a program that contains one or more routines
 > _AWS Cloud, also AWS CSP_
 is a comprehensive, evolving cloud computing platform provided by Amazon that includes a mixture of infrastructure as a service (IaaS), platform as a service (PaaS) and packaged software as a service (SaaS) offerings
 
+> _Implicit_
+is something that is suggested or implied but not ever clearly said
 
+> _Explicit_
+is a fully revealed or expressed without vagueness, implication, or ambiguity
 
 ---
 [< Prev (Home)](README.md)  |  [Next (Problem Background) >](1.Problem/README.md)
