@@ -117,5 +117,8 @@ is something that is suggested or implied but not ever clearly said
 > _Explicit_
 is a fully revealed or expressed without vagueness, implication, or ambiguity
 
+> _4-eyes principle_
+a certain activity, i.e. a decision, transaction, etc., must be approved by at least two people
+
 ---
 [< Prev (Home)](README.md)  |  [Next (Problem Background) >](1.Problem/README.md)
