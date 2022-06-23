@@ -30,6 +30,9 @@ are the interrelated conditions in which something exists or occurs
 > _Spotlive event, also Spotlive_
 **in our context**, is an event on regular basis. Usually it is a weekly informal meeting with recording
 
+> _Fundraising_
+The organized activity or an instance of soliciting money or pledges, as for charitable organizations or political campaigns
+
 > _Platform_
 is a list of online teaching tools used for blended learning. **In our context**, the meeting place for candidates and NPOs
 
