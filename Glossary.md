@@ -36,6 +36,9 @@ are the interrelated conditions in which something exists or occurs
 > _Fundraising_
 The organized activity or an instance of soliciting money or pledges, as for charitable organizations or political campaigns
 
+> _User-generated context, also UGC_
+ the content your users or customers produce featuring your brand or products (ratings, reviews, posts, video recordings, FAQ and feedback)
+
 > _Platform_
 is a list of online teaching tools used for blended learning. **In our context**, the meeting place for candidates and NPOs
 
