@@ -10,19 +10,19 @@
 is, simply, the organization of a system. This organization includes all components, how they interact with each other, the environment in which they operate, and the principles used to design the software. In many cases, it can also include the evolution of the software into the future.
 
 > _Kata_
-is a system of individual training exercises in karate and other martial art. In our context, regular exercise to master your skills.
-
-> _Spotlight_ 
-in our context, is a platform to enable effective collaboration between non-profits and Candidates
+is a system of individual training exercises in karate and other martial art. **In our context**, regular exercise to master your skills.
 
 > _Context_
-the interrelated conditions in which something exists or occurs
+are the interrelated conditions in which something exists or occurs
+
+> _Spotlight_ 
+**in our context**, is a platform to enable effective collaboration between non-profits and Candidates
 
 > _Spotlive_
-in our context, is an event on regular basis. Usually it is a weekly informal meeting with recording
+**in our context**, is an event on regular basis. Usually it is a weekly informal meeting with recording
 
 > _Platform_
-is a list of online teaching tools used for blended learning. In our context, the meeting place for candidates and NPOs
+is a list of online teaching tools used for blended learning. **In our context**, the meeting place for candidates and NPOs
 
 > _Non-profit organization, also non-profits (NPO)_ 
 is a group with a platform integration offering
@@ -52,7 +52,7 @@ is a tool in software development used to capture a description of a software fe
 is a lean graphical notation technique for modelling the architecture of software systems.
 
 > Lean
-in our context, is a business methodology that promotes the flow of value to the customer through two guiding tenets: continuous improvement and respect for people.
+**in our context**, is a business methodology that promotes the flow of value to the customer through two guiding tenets: continuous improvement and respect for people.
 
 > _Monolith, also monolithic architecture_
 is the traditional unified model for the design of a software program. Monolithic, in this context, means composed all in one piece.
