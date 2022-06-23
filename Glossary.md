@@ -18,6 +18,15 @@ is a representative of the platform who facilitates NPOs in their processes and 
 > _Candidate_
 is a consumer of non-profit offerings, delivered via the platform
 
+> _Visitor_
+is a an unauthenticated user who comes to website or mobile app
+
+> _Authentication_
+a process when the user or application proves they are who they say they are by providing valid credentials.
+
+> _Mentor_
+a trusted counselor or guide
+
 > _Spotlight_ 
 is a platform to enable effective collaboration between NPOs and Candidates
 
