@@ -15,6 +15,9 @@ is a system of individual training exercises in karate and other martial art. **
 > _Diversity Cyber Council, also DCC_
 a 501c3 Non-Profit that serves under-represented demographics in the tech industry by facilitating education, training, and staffing opportunities to establish a sustainable and diverse talent pipeline to the workforce.
 
+> _Diversity_
+is a satisfying mix of ideas, cultures, races, genders, economic statuses and other characteristics necessary for promoting growth and learning among a group
+
 > _501c3 organization_
 is a tax-exempt nonprofit organization
 
