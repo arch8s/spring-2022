@@ -84,7 +84,10 @@ is a tool in software development used to capture a description of a software fe
 > _C4 Model_
 is a lean graphical notation technique for modelling the architecture of software systems.
 
-> _Lean_
+> _Minimum viable product, also MVP_
+is a concept from Lean Startup that stresses the impact of learning in new product development
+
+> _Lean, also Lean Startup_
 **in our context**, is a business methodology that promotes the flow of value to the customer through two guiding tenets: continuous improvement and respect for people.
 
 > _Proof of concept, also concept, also PoC_
@@ -119,6 +122,18 @@ is a fully revealed or expressed without vagueness, implication, or ambiguity
 
 > _4-eyes principle_
 a certain activity, i.e. a decision, transaction, etc., must be approved by at least two people
+
+> _Open Web Application Security Project, also OWASP_
+identifies and ranks top web app security risks. The goal of this non-profit organization is to level up web application security for all developers and users
+
+> _OAuth_
+
+> _Isolated perimeter_
+
+> _Onboarding_
+
+> _Whitelabel_
+
 
 ---
 [< Prev (Home)](README.md)  |  [Next (Problem Background) >](1.Problem/README.md)
