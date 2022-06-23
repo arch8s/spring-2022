@@ -36,7 +36,7 @@ is a list of online teaching tools used for blended learning. **In our context**
 > _Scalability_
 the capacity to be changed in size or scale
 
-> End ease of use, also Usability
+> _End ease of use, also Usability_
 a quality attribute that assesses how easy user interfaces are to use
 
 > _Engagement_
