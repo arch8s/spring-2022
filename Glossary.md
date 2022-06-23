@@ -12,6 +12,15 @@ is, simply, the organization of a system. This organization includes all compone
 > _Kata_
 is a system of individual training exercises in karate and other martial art. **In our context**, regular exercise to master your skills.
 
+> _Diversity Cyber Council, also DCC_
+a 501c3 Non-Profit that serves under-represented demographics in the tech industry by facilitating education, training, and staffing opportunities to establish a sustainable and diverse talent pipeline to the workforce.
+
+> _501c3 organization_
+is a tax-exempt nonprofit organization
+
+> _Non-profit organization, also non-profits (NPO)_ 
+**in our context***, is an independent group within platform which offers services
+
 > _Context_
 are the interrelated conditions in which something exists or occurs
 
@@ -23,9 +32,6 @@ are the interrelated conditions in which something exists or occurs
 
 > _Platform_
 is a list of online teaching tools used for blended learning. **In our context**, the meeting place for candidates and NPOs
-
-> _Non-profit organization, also non-profits (NPO)_ 
-is a group with a platform integration offering
 
 > _Community Leader_
 is a representative of the platform who facilitates NPOs in their processes and organisational needs
@@ -60,5 +66,19 @@ is the traditional unified model for the design of a software program. Monolithi
 > _Modular monolith_
 is a software design technique that emphasizes separating the functionality of a program into independent, interchangeable modules, such that each contains everything necessary to execute only one aspect of the desired functionality
 
+> _Constraint_
+is a restriction on the degree of freedom you have in providing a solution
+
+> _Container_
+is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another
+
+> _Component_
+is an identifiable part of a larger program or construction
+
+> _Module_
+is a software component or part of a program that contains one or more routines
+
+> _AWS Cloud, also AWS CSP_
+ 
 ---
 [< Prev (Home)](README.md)  |  [Next (Problem Background) >](1.Problem/README.md)
