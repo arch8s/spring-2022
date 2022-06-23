@@ -42,6 +42,9 @@ a quality attribute that assesses how easy user interfaces are to use
 > _Engagement_
 the act of engaging. **In our context**, the techniques we introduce to make our users returning back to the platform.
 
+> _Stakeholder_
+is a party that has an interest in a company and can either affect or be affected by the business
+
 > _Community Leader_
 is a representative of the platform who facilitates NPOs in their processes and organisational needs
 
@@ -98,6 +101,7 @@ is a software component or part of a program that contains one or more routines
 
 > _AWS Cloud, also AWS CSP_
 is a comprehensive, evolving cloud computing platform provided by Amazon that includes a mixture of infrastructure as a service (IaaS), platform as a service (PaaS) and packaged software as a service (SaaS) offerings
+
 
 
 ---
