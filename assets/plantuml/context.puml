@@ -18,7 +18,7 @@ System_Boundary(diversity_cyber_council, "Diversity Cyber Council") {
 System_Ext(s3, "File storage", "Handles storage of files")
 System_Ext(ses, "Notification service", "Handles push notifications and transactional emails")
 System_Ext(rds, "Database", "Handles data persistance")
-System_Ext(serverless, "Computing power", "Renders PDFs in scalable way")
+System_Ext(serverless, "Serverless Lambda", "Renders PDFs in scalable way")
 
 Rel(community_leader, spotlight, "Supports and Reviews NPOs")
 Rel(npo_admin, spotlight, "Register NPO, publish content, manages mentors")
