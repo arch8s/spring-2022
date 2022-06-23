@@ -127,13 +127,19 @@ a certain activity, i.e. a decision, transaction, etc., must be approved by at l
 identifies and ranks top web app security risks. The goal of this non-profit organization is to level up web application security for all developers and users
 
 > _OAuth_
+an authentication protocol that allows you to approve one application interacting with another on your behalf without giving away your password
 
-> _Isolated perimeter_
+> _Isolated perimeter, also Software-defined perimeter_
+is a security framework that controls access to resources based on identity. By establishing a perimeter via software versus hardware, an SDP hides an organization's infrastructure -- regardless of where it is located -- from outsiders, while enabling authorized users to access it.
 
 > _Onboarding_
+the act or process of familiarizing a new customer with one's products or services
 
 > _Whitelabel_
-
+is a product or service produced by one company (the producer) that other companies (the marketers) rebrand to make it appear as if they had made it
+ 
+> _Taxonomy_
+is the science of naming, describing and classifying organisms. **In our context**, the module responsible for service offerrings tree
 
 ---
 [< Prev (Home)](README.md)  |  [Next (Problem Background) >](1.Problem/README.md)
