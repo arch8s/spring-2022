@@ -5,7 +5,7 @@
 [![Documentation](https://img.shields.io/badge/Documentation-in_progress-orange)](https://github.com/arch8s/spring-2022)
 
 <div style="text-align: center">
-  <img src="assets/images/team-logo.png" alt="Arch8s"/>
+  <img src="assets/images/team-logo.png" alt="Arch8s" style="zoom:0.5"/>
   <h1>Project <strong>Spotlight</strong> by Team <strong>Arch8s</strong></h1>
   <p><i>Illuminate Possibilities</i></p>
   <b>O'Reilly Architectural Kata: Spring 2022</b>  
