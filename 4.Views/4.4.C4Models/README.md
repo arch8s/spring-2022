@@ -25,6 +25,10 @@ https://c4model.com/
 
 <img src="../../assets/plantuml/component.png" alt="C4 System Component Diagram">
 
+### Notifications components and interactions
+
+<img src="../../assets/plantuml/notifications.png" alt="C4 Component Notifications Diagram">
+
 ## Level 4. Code (skipped)
 > Level 4: A code (e.g. UML class) diagram can be used to zoom into an individual component, showing how that component is implemented.
 
