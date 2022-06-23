@@ -69,11 +69,14 @@ is a complex undertaking by two or more persons within the boundaries of time, b
 > _User-story_
 is a tool in software development used to capture a description of a software feature from a user's perspective.
 
-> C4 Model
+> _C4 Model_
 is a lean graphical notation technique for modelling the architecture of software systems.
 
-> Lean
+> _Lean_
 **in our context**, is a business methodology that promotes the flow of value to the customer through two guiding tenets: continuous improvement and respect for people.
+
+> _Proof of concept, also concept, also PoC_
+is an exercise in which work is focused on determining whether an idea can be turned into a reality
 
 > _Monolith, also monolithic architecture_
 is the traditional unified model for the design of a software program. Monolithic, in this context, means composed all in one piece.
