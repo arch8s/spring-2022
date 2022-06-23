@@ -1,0 +1,36 @@
+@startuml backend
+!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/release/1-0/C4_Component.puml
+
+title Component diagram for Notifications
+
+LAYOUT_WITH_LEGEND()
+
+Person(mentor, "Mentor", "a Mentor")
+Person(candidate, "Candidate", "a person with certain need")
+
+System_Boundary(api, "Backend API") {
+    ' Notification component
+    Component(notifications, "Notifications", "module", "Manages Push notifications/Emails")        
+    Component(candidates, "Candidates", "module", "Manages candidates")
+    Component(roadmaps, "Career Roadmaps", "module", "Manages career roadmaps for candidates with quality gates")
+    Component(candidate_assessments, "Candidate Assessments", "module", "Manages candidates assessments")
+}
+
+System_Ext(ses, "Notification service", "Handles push notifications and transactional emails")
+System_Ext(rds, "Database", "Handles data persistance")
+
+Rel(mentor, roadmaps, "Adjust career path to the roadmap")
+Rel(mentor, candidates, "Assigns roadmap to candidate")
+
+Rel(candidates, notifications, "Sends data about assigned roadmap")
+Rel(candidates, candidate_assessments, "Adds new quality gateway")
+
+Rel(notifications, ses, "Sends push notification to the candidate")
+
+Rel(candidates, rds, "Persists changes over candidate")
+Rel(candidate_assessments, rds, "Persists changes over assessment")
+Rel(roadmaps, rds, "Persists changes over roadmap")
+
+Rel(ses, candidate, "Fetches the push notifications")
+
+@enduml
