@@ -1,6 +1,6 @@
 [&gt; Home](../README.md) [&gt; ADRs](README.md) > **ADR-016** Browser support - Most popular 4 browsers
 
-[&lt; Prev](ADR-015-pick-aws-region-wisely.md)  |  [Next &gt;](README.md)
+[&lt; Prev](ADR-015-pick-aws-region-wisely.md)  |  [Next &gt;](ADR-017-community-component-disciple.md)
 
 ---
 
