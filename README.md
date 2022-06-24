@@ -68,8 +68,7 @@ A special thanks goes to these 🏋🏻 people:
 
 - Ivan Georgiev
 - Andrey Orsoev
-- Kavya Shiva
-- Moran Lefler
+- Jason Merry
 
 ## Extras
 
