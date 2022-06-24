@@ -36,10 +36,15 @@ We are using [C4 Model](https://c4model.com/) to build our models.
 
 (skipped)
 
-
-___
+---
+> We have used Str to build C4 models
+> C4 model using a textual domain specific language (DSL).
+> [Structurizr DSL](https://github.com/structurizr/dsl)
+> [spotlight-c4](../../assets/spotlight-c4.dsl)
+___ 
 > We have used plantuml to build our C4 diagrams, which can be found in [assets](../../assets/plantuml),
 > using following [templates](https://github.com/plantuml-stdlib/C4-PlantUML).
+
 ---
 
 [< Prev](../4.3.Scenarios/README.md)  |  [Next >](../4.5.Mockups/README.md)
