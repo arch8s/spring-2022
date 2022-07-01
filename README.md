@@ -66,7 +66,7 @@ Hi there! 👋 We are team <b title="Archistratigs">Arch🎱s</b> and we are gla
 
 A special thanks goes to these 🏋🏻 people:
 
-- Ivan Georgiev
+- (Ivan Georgiev)[https://www.linkedin.com/in/ivan-georgiev-859b219/]
 - Andrey Orsoev
 - Jason Merry
 
